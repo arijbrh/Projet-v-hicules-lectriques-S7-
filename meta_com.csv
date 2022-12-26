@@ -1,0 +1,11 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD;TYPE_VAR;LONG_VAR
+CODCOL;Code collectivité;975;Saint-Pierre-et-Miquelon;CHAR;3
+CODCOL;Code collectivité;977;Saint-Barthélemy;CHAR;3
+CODCOL;Code collectivité;978;Saint-Martin;CHAR;3
+CODCOM;Code commune;501;Miquelon-Langlade;CHAR;3
+CODCOM;Code commune;502;Saint-Pierre;CHAR;3
+CODCOM;Code commune;701;Saint-Barthélemy;CHAR;3
+CODCOM;Code commune;801;Saint-Martin;CHAR;3
+PMUN;Population municipale;;;NUM;8
+PCAP;Population comptée à part;;;NUM;8
+PTOT;Population totale;;;NUM;8

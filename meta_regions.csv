@@ -1,0 +1,23 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD;TYPE_VAR;LONG_VAR
+CODREG;Région;84;Auvergne-Rhône-Alpes;CHAR;2
+CODREG;Région;27;Bourgogne-Franche-Comté;CHAR;2
+CODREG;Région;53;Bretagne;CHAR;2
+CODREG;Région;24;Centre-Val de Loire;CHAR;2
+CODREG;Région;94;Corse;CHAR;2
+CODREG;Région;44;Grand Est;CHAR;2
+CODREG;Région;1;Guadeloupe;CHAR;2
+CODREG;Région;3;Guyane;CHAR;2
+CODREG;Région;32;Hauts-de-France;CHAR;2
+CODREG;Région;11;Île-de-France;CHAR;2
+CODREG;Région;4;La Réunion;CHAR;2
+CODREG;Région;2;Martinique;CHAR;2
+CODREG;Région;28;Normandie;CHAR;2
+CODREG;Région;75;Nouvelle-Aquitaine;CHAR;2
+CODREG;Région;76;Occitanie;CHAR;2
+CODREG;Région;52;Pays de la Loire;CHAR;2
+CODREG;Région;93;Provence-Alpes-Côte d'Azur;CHAR;2
+NBARR;Nombre d'arrondissements;;;NUM;8
+NBCAN;Nombre de cantons;;;NUM;8
+NBCOM;Nombre de communes;;;NUM;8
+PMUN;Population municipale;;;NUM;8
+PTOT;Population totale;;;NUM;8

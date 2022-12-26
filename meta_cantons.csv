@@ -1,0 +1,2046 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD;TYPE_VAR;LONG_VAR
+DEPCAN;Canton;101;Ambérieu-en-Bugey;CHAR;5
+DEPCAN;Canton;102;Attignat;CHAR;5
+DEPCAN;Canton;103;Bellegarde-sur-Valserine;CHAR;5
+DEPCAN;Canton;104;Belley;CHAR;5
+DEPCAN;Canton;105;Bourg-en-Bresse-1;CHAR;5
+DEPCAN;Canton;106;Bourg-en-Bresse-2;CHAR;5
+DEPCAN;Canton;107;Ceyzériat;CHAR;5
+DEPCAN;Canton;108;Châtillon-sur-Chalaronne;CHAR;5
+DEPCAN;Canton;109;Gex;CHAR;5
+DEPCAN;Canton;110;Hauteville-Lompnes;CHAR;5
+DEPCAN;Canton;111;Lagnieu;CHAR;5
+DEPCAN;Canton;112;Meximieux;CHAR;5
+DEPCAN;Canton;113;Miribel;CHAR;5
+DEPCAN;Canton;114;Nantua;CHAR;5
+DEPCAN;Canton;115;Oyonnax;CHAR;5
+DEPCAN;Canton;116;Pont-d'Ain;CHAR;5
+DEPCAN;Canton;117;Replonges;CHAR;5
+DEPCAN;Canton;118;Saint-Étienne-du-Bois;CHAR;5
+DEPCAN;Canton;119;Saint-Genis-Pouilly;CHAR;5
+DEPCAN;Canton;120;Thoiry;CHAR;5
+DEPCAN;Canton;121;Trévoux;CHAR;5
+DEPCAN;Canton;122;Villars-les-Dombes;CHAR;5
+DEPCAN;Canton;123;Vonnas;CHAR;5
+DEPCAN;Canton;201;Bohain-en-Vermandois;CHAR;5
+DEPCAN;Canton;202;Château-Thierry;CHAR;5
+DEPCAN;Canton;203;Chauny;CHAR;5
+DEPCAN;Canton;204;Essômes-sur-Marne;CHAR;5
+DEPCAN;Canton;205;Fère-en-Tardenois;CHAR;5
+DEPCAN;Canton;206;Guignicourt;CHAR;5
+DEPCAN;Canton;207;Guise;CHAR;5
+DEPCAN;Canton;208;Hirson;CHAR;5
+DEPCAN;Canton;209;Laon-1;CHAR;5
+DEPCAN;Canton;210;Laon-2;CHAR;5
+DEPCAN;Canton;211;Marle;CHAR;5
+DEPCAN;Canton;212;Ribemont;CHAR;5
+DEPCAN;Canton;213;Saint-Quentin-1;CHAR;5
+DEPCAN;Canton;214;Saint-Quentin-2;CHAR;5
+DEPCAN;Canton;215;Saint-Quentin-3;CHAR;5
+DEPCAN;Canton;216;Soissons-1;CHAR;5
+DEPCAN;Canton;217;Soissons-2;CHAR;5
+DEPCAN;Canton;218;Tergnier;CHAR;5
+DEPCAN;Canton;219;Vervins;CHAR;5
+DEPCAN;Canton;220;Vic-sur-Aisne;CHAR;5
+DEPCAN;Canton;221;Villers-Cotterêts;CHAR;5
+DEPCAN;Canton;301;Bellerive-sur-Allier;CHAR;5
+DEPCAN;Canton;302;Bourbon-l'Archambault;CHAR;5
+DEPCAN;Canton;303;Commentry;CHAR;5
+DEPCAN;Canton;304;Cusset;CHAR;5
+DEPCAN;Canton;305;Dompierre-sur-Besbre;CHAR;5
+DEPCAN;Canton;306;Gannat;CHAR;5
+DEPCAN;Canton;307;Huriel;CHAR;5
+DEPCAN;Canton;308;Lapalisse;CHAR;5
+DEPCAN;Canton;309;Montluçon-1;CHAR;5
+DEPCAN;Canton;310;Montluçon-2;CHAR;5
+DEPCAN;Canton;311;Montluçon-3;CHAR;5
+DEPCAN;Canton;312;Montluçon-4;CHAR;5
+DEPCAN;Canton;313;Moulins-1;CHAR;5
+DEPCAN;Canton;314;Moulins-2;CHAR;5
+DEPCAN;Canton;315;Saint-Pourçain-sur-Sioule;CHAR;5
+DEPCAN;Canton;316;Souvigny;CHAR;5
+DEPCAN;Canton;317;Vichy-1;CHAR;5
+DEPCAN;Canton;318;Vichy-2;CHAR;5
+DEPCAN;Canton;319;Yzeure;CHAR;5
+DEPCAN;Canton;401;Barcelonnette;CHAR;5
+DEPCAN;Canton;402;Castellane;CHAR;5
+DEPCAN;Canton;403;Château-Arnoux-Saint-Auban;CHAR;5
+DEPCAN;Canton;404;Digne-les-Bains-1;CHAR;5
+DEPCAN;Canton;405;Digne-les-Bains-2;CHAR;5
+DEPCAN;Canton;406;Forcalquier;CHAR;5
+DEPCAN;Canton;407;Manosque-1;CHAR;5
+DEPCAN;Canton;408;Manosque-2;CHAR;5
+DEPCAN;Canton;409;Manosque-3;CHAR;5
+DEPCAN;Canton;410;Oraison;CHAR;5
+DEPCAN;Canton;411;Reillanne;CHAR;5
+DEPCAN;Canton;412;Riez;CHAR;5
+DEPCAN;Canton;413;Seyne;CHAR;5
+DEPCAN;Canton;414;Sisteron;CHAR;5
+DEPCAN;Canton;415;Valensole;CHAR;5
+DEPCAN;Canton;501;L' Argentière-la-Bessée;CHAR;5
+DEPCAN;Canton;502;Briançon-1;CHAR;5
+DEPCAN;Canton;503;Briançon-2;CHAR;5
+DEPCAN;Canton;504;Chorges;CHAR;5
+DEPCAN;Canton;505;Embrun;CHAR;5
+DEPCAN;Canton;506;Gap-1;CHAR;5
+DEPCAN;Canton;507;Gap-2;CHAR;5
+DEPCAN;Canton;508;Gap-3;CHAR;5
+DEPCAN;Canton;509;Gap-4;CHAR;5
+DEPCAN;Canton;510;Guillestre;CHAR;5
+DEPCAN;Canton;511;Laragne-Montéglin;CHAR;5
+DEPCAN;Canton;512;Saint-Bonnet-en-Champsaur;CHAR;5
+DEPCAN;Canton;513;Serres;CHAR;5
+DEPCAN;Canton;514;Tallard;CHAR;5
+DEPCAN;Canton;515;Veynes;CHAR;5
+DEPCAN;Canton;601;Antibes-1;CHAR;5
+DEPCAN;Canton;602;Antibes-2;CHAR;5
+DEPCAN;Canton;603;Antibes-3;CHAR;5
+DEPCAN;Canton;604;Beausoleil;CHAR;5
+DEPCAN;Canton;605;Cagnes-sur-Mer-1;CHAR;5
+DEPCAN;Canton;606;Cagnes-sur-Mer-2;CHAR;5
+DEPCAN;Canton;607;Cannes-1;CHAR;5
+DEPCAN;Canton;608;Cannes-2;CHAR;5
+DEPCAN;Canton;609;Le Cannet;CHAR;5
+DEPCAN;Canton;610;Contes;CHAR;5
+DEPCAN;Canton;611;Grasse-1;CHAR;5
+DEPCAN;Canton;612;Grasse-2;CHAR;5
+DEPCAN;Canton;613;Mandelieu-la-Napoule;CHAR;5
+DEPCAN;Canton;614;Menton;CHAR;5
+DEPCAN;Canton;615;Nice-1;CHAR;5
+DEPCAN;Canton;616;Nice-2;CHAR;5
+DEPCAN;Canton;617;Nice-3;CHAR;5
+DEPCAN;Canton;618;Nice-4;CHAR;5
+DEPCAN;Canton;619;Nice-5;CHAR;5
+DEPCAN;Canton;620;Nice-6;CHAR;5
+DEPCAN;Canton;621;Nice-7;CHAR;5
+DEPCAN;Canton;622;Nice-8;CHAR;5
+DEPCAN;Canton;623;Nice-9;CHAR;5
+DEPCAN;Canton;624;Tourrette-Levens;CHAR;5
+DEPCAN;Canton;625;Valbonne;CHAR;5
+DEPCAN;Canton;626;Vence;CHAR;5
+DEPCAN;Canton;627;Villeneuve-Loubet;CHAR;5
+DEPCAN;Canton;701;Annonay-1;CHAR;5
+DEPCAN;Canton;702;Annonay-2;CHAR;5
+DEPCAN;Canton;703;Aubenas-1;CHAR;5
+DEPCAN;Canton;704;Aubenas-2;CHAR;5
+DEPCAN;Canton;712;Berg-Helvie;CHAR;5
+DEPCAN;Canton;705;Bourg-Saint-Andéol;CHAR;5
+DEPCAN;Canton;716;Les Cévennes Ardéchoises;CHAR;5
+DEPCAN;Canton;707;Guilherand-Granges;CHAR;5
+DEPCAN;Canton;706;Haut-Eyrieux;CHAR;5
+DEPCAN;Canton;708;Haut-Vivarais;CHAR;5
+DEPCAN;Canton;713;Haute-Ardèche;CHAR;5
+DEPCAN;Canton;709;Le Pouzin;CHAR;5
+DEPCAN;Canton;710;Privas;CHAR;5
+DEPCAN;Canton;717;Rhône-Eyrieux;CHAR;5
+DEPCAN;Canton;711;Sarras;CHAR;5
+DEPCAN;Canton;714;Tournon-sur-Rhône;CHAR;5
+DEPCAN;Canton;715;Vallon-Pont-d'Arc;CHAR;5
+DEPCAN;Canton;801;Attigny;CHAR;5
+DEPCAN;Canton;802;Bogny-sur-Meuse;CHAR;5
+DEPCAN;Canton;803;Carignan;CHAR;5
+DEPCAN;Canton;804;Charleville-Mézières-1;CHAR;5
+DEPCAN;Canton;805;Charleville-Mézières-2;CHAR;5
+DEPCAN;Canton;806;Charleville-Mézières-3;CHAR;5
+DEPCAN;Canton;807;Charleville-Mézières-4;CHAR;5
+DEPCAN;Canton;808;Château-Porcien;CHAR;5
+DEPCAN;Canton;809;Givet;CHAR;5
+DEPCAN;Canton;810;Nouvion-sur-Meuse;CHAR;5
+DEPCAN;Canton;811;Rethel;CHAR;5
+DEPCAN;Canton;812;Revin;CHAR;5
+DEPCAN;Canton;813;Rocroi;CHAR;5
+DEPCAN;Canton;814;Sedan-1;CHAR;5
+DEPCAN;Canton;815;Sedan-2;CHAR;5
+DEPCAN;Canton;816;Sedan-3;CHAR;5
+DEPCAN;Canton;817;Signy-l'Abbaye;CHAR;5
+DEPCAN;Canton;818;Villers-Semeuse;CHAR;5
+DEPCAN;Canton;819;Vouziers;CHAR;5
+DEPCAN;Canton;902;Arize-Lèze;CHAR;5
+DEPCAN;Canton;903;Couserans Est;CHAR;5
+DEPCAN;Canton;904;Couserans Ouest;CHAR;5
+DEPCAN;Canton;905;Foix;CHAR;5
+DEPCAN;Canton;901;Haute-Ariège;CHAR;5
+DEPCAN;Canton;906;Mirepoix;CHAR;5
+DEPCAN;Canton;907;Pamiers-1;CHAR;5
+DEPCAN;Canton;908;Pamiers-2;CHAR;5
+DEPCAN;Canton;909;Pays d'Olmes;CHAR;5
+DEPCAN;Canton;910;Portes d'Ariège;CHAR;5
+DEPCAN;Canton;911;Portes du Couserans;CHAR;5
+DEPCAN;Canton;912;Sabarthès;CHAR;5
+DEPCAN;Canton;913;Val d'Ariège;CHAR;5
+DEPCAN;Canton;1001;Aix-en-Othe;CHAR;5
+DEPCAN;Canton;1002;Arcis-sur-Aube;CHAR;5
+DEPCAN;Canton;1003;Bar-sur-Aube;CHAR;5
+DEPCAN;Canton;1004;Bar-sur-Seine;CHAR;5
+DEPCAN;Canton;1005;Brienne-le-Château;CHAR;5
+DEPCAN;Canton;1006;Creney-près-Troyes;CHAR;5
+DEPCAN;Canton;1007;Nogent-sur-Seine;CHAR;5
+DEPCAN;Canton;1008;Les Riceys;CHAR;5
+DEPCAN;Canton;1009;Romilly-sur-Seine;CHAR;5
+DEPCAN;Canton;1010;Saint-André-les-Vergers;CHAR;5
+DEPCAN;Canton;1011;Saint-Lyé;CHAR;5
+DEPCAN;Canton;1012;Troyes-1;CHAR;5
+DEPCAN;Canton;1013;Troyes-2;CHAR;5
+DEPCAN;Canton;1014;Troyes-3;CHAR;5
+DEPCAN;Canton;1015;Troyes-4;CHAR;5
+DEPCAN;Canton;1016;Troyes-5;CHAR;5
+DEPCAN;Canton;1017;Vendeuvre-sur-Barse;CHAR;5
+DEPCAN;Canton;1106;Les Basses Plaines de l'Aude;CHAR;5
+DEPCAN;Canton;1105;Le Bassin chaurien;CHAR;5
+DEPCAN;Canton;1102;Carcassonne-1;CHAR;5
+DEPCAN;Canton;1103;Carcassonne-2;CHAR;5
+DEPCAN;Canton;1104;Carcassonne-3;CHAR;5
+DEPCAN;Canton;1107;Les Corbières;CHAR;5
+DEPCAN;Canton;1117;Les Corbières Méditerranée;CHAR;5
+DEPCAN;Canton;1115;Le Haut-Minervois;CHAR;5
+DEPCAN;Canton;1114;La Haute-Vallée de l'Aude;CHAR;5
+DEPCAN;Canton;1108;Le Lézignanais;CHAR;5
+DEPCAN;Canton;1110;La Malepère à la Montagne Noire;CHAR;5
+DEPCAN;Canton;1118;La Montagne d'Alaric;CHAR;5
+DEPCAN;Canton;1111;Narbonne-1;CHAR;5
+DEPCAN;Canton;1112;Narbonne-2;CHAR;5
+DEPCAN;Canton;1113;Narbonne-3;CHAR;5
+DEPCAN;Canton;1101;La Piège au Razès;CHAR;5
+DEPCAN;Canton;1109;La Région Limouxine;CHAR;5
+DEPCAN;Canton;1116;Le Sud-Minervois;CHAR;5
+DEPCAN;Canton;1119;La Vallée de l'Orbiel;CHAR;5
+DEPCAN;Canton;1201;Aubrac et Carladez;CHAR;5
+DEPCAN;Canton;1202;Aveyron et Tarn;CHAR;5
+DEPCAN;Canton;1203;Causse-Comtal;CHAR;5
+DEPCAN;Canton;1204;Causses-Rougiers;CHAR;5
+DEPCAN;Canton;1205;Ceor-Ségala;CHAR;5
+DEPCAN;Canton;1206;Enne et Alzou;CHAR;5
+DEPCAN;Canton;1207;Lot et Dourdou;CHAR;5
+DEPCAN;Canton;1208;Lot et Montbazinois;CHAR;5
+DEPCAN;Canton;1209;Lot et Palanges;CHAR;5
+DEPCAN;Canton;1210;Lot et Truyère;CHAR;5
+DEPCAN;Canton;1211;Millau-1;CHAR;5
+DEPCAN;Canton;1212;Millau-2;CHAR;5
+DEPCAN;Canton;1213;Monts du Réquistanais;CHAR;5
+DEPCAN;Canton;1214;Nord-Lévezou;CHAR;5
+DEPCAN;Canton;1215;Raspes et Lévezou;CHAR;5
+DEPCAN;Canton;1216;Rodez-1;CHAR;5
+DEPCAN;Canton;1217;Rodez-2;CHAR;5
+DEPCAN;Canton;1218;Rodez-Onet;CHAR;5
+DEPCAN;Canton;1219;Saint-Affrique;CHAR;5
+DEPCAN;Canton;1220;Tarn et Causses;CHAR;5
+DEPCAN;Canton;1221;Vallon;CHAR;5
+DEPCAN;Canton;1222;Villefranche-de-Rouergue;CHAR;5
+DEPCAN;Canton;1223;Villeneuvois et Villefranchois;CHAR;5
+DEPCAN;Canton;1301;Aix-en-Provence-1;CHAR;5
+DEPCAN;Canton;1302;Aix-en-Provence-2;CHAR;5
+DEPCAN;Canton;1303;Allauch;CHAR;5
+DEPCAN;Canton;1304;Arles;CHAR;5
+DEPCAN;Canton;1305;Aubagne;CHAR;5
+DEPCAN;Canton;1306;Berre-l'Étang;CHAR;5
+DEPCAN;Canton;1307;Châteaurenard;CHAR;5
+DEPCAN;Canton;1308;La Ciotat;CHAR;5
+DEPCAN;Canton;1309;Gardanne;CHAR;5
+DEPCAN;Canton;1310;Istres;CHAR;5
+DEPCAN;Canton;1311;Marignane;CHAR;5
+DEPCAN;Canton;1312;Marseille-1;CHAR;5
+DEPCAN;Canton;1321;Marseille-10;CHAR;5
+DEPCAN;Canton;1322;Marseille-11;CHAR;5
+DEPCAN;Canton;1323;Marseille-12;CHAR;5
+DEPCAN;Canton;1313;Marseille-2;CHAR;5
+DEPCAN;Canton;1314;Marseille-3;CHAR;5
+DEPCAN;Canton;1315;Marseille-4;CHAR;5
+DEPCAN;Canton;1316;Marseille-5;CHAR;5
+DEPCAN;Canton;1317;Marseille-6;CHAR;5
+DEPCAN;Canton;1318;Marseille-7;CHAR;5
+DEPCAN;Canton;1319;Marseille-8;CHAR;5
+DEPCAN;Canton;1320;Marseille-9;CHAR;5
+DEPCAN;Canton;1324;Martigues;CHAR;5
+DEPCAN;Canton;1325;Pélissanne;CHAR;5
+DEPCAN;Canton;1326;Salon-de-Provence-1;CHAR;5
+DEPCAN;Canton;1327;Salon-de-Provence-2;CHAR;5
+DEPCAN;Canton;1328;Trets;CHAR;5
+DEPCAN;Canton;1329;Vitrolles;CHAR;5
+DEPCAN;Canton;1401;Aunay-sur-Odon;CHAR;5
+DEPCAN;Canton;1402;Bayeux;CHAR;5
+DEPCAN;Canton;1403;Bretteville-l'Orgueilleuse;CHAR;5
+DEPCAN;Canton;1404;Cabourg;CHAR;5
+DEPCAN;Canton;1405;Caen-1;CHAR;5
+DEPCAN;Canton;1406;Caen-2;CHAR;5
+DEPCAN;Canton;1407;Caen-3;CHAR;5
+DEPCAN;Canton;1408;Caen-4;CHAR;5
+DEPCAN;Canton;1409;Caen-5;CHAR;5
+DEPCAN;Canton;1410;Condé-sur-Noireau;CHAR;5
+DEPCAN;Canton;1411;Courseulles-sur-Mer;CHAR;5
+DEPCAN;Canton;1412;Évrecy;CHAR;5
+DEPCAN;Canton;1413;Falaise;CHAR;5
+DEPCAN;Canton;1414;Hérouville-Saint-Clair;CHAR;5
+DEPCAN;Canton;1415;Honfleur-Deauville;CHAR;5
+DEPCAN;Canton;1416;Ifs;CHAR;5
+DEPCAN;Canton;1417;Lisieux;CHAR;5
+DEPCAN;Canton;1418;Livarot;CHAR;5
+DEPCAN;Canton;1419;Mézidon-Canon;CHAR;5
+DEPCAN;Canton;1420;Ouistreham;CHAR;5
+DEPCAN;Canton;1421;Pont-l'Évêque;CHAR;5
+DEPCAN;Canton;1422;Thury-Harcourt;CHAR;5
+DEPCAN;Canton;1423;Trévières;CHAR;5
+DEPCAN;Canton;1424;Troarn;CHAR;5
+DEPCAN;Canton;1425;Vire;CHAR;5
+DEPCAN;Canton;1501;Arpajon-sur-Cère;CHAR;5
+DEPCAN;Canton;1502;Aurillac-1;CHAR;5
+DEPCAN;Canton;1503;Aurillac-2;CHAR;5
+DEPCAN;Canton;1504;Aurillac-3;CHAR;5
+DEPCAN;Canton;1505;Mauriac;CHAR;5
+DEPCAN;Canton;1506;Maurs;CHAR;5
+DEPCAN;Canton;1507;Murat;CHAR;5
+DEPCAN;Canton;1508;Naucelles;CHAR;5
+DEPCAN;Canton;1509;Neuvéglise;CHAR;5
+DEPCAN;Canton;1510;Riom-ès-Montagnes;CHAR;5
+DEPCAN;Canton;1511;Saint-Flour-1;CHAR;5
+DEPCAN;Canton;1512;Saint-Flour-2;CHAR;5
+DEPCAN;Canton;1513;Saint-Paul-des-Landes;CHAR;5
+DEPCAN;Canton;1514;Vic-sur-Cère;CHAR;5
+DEPCAN;Canton;1515;Ydes;CHAR;5
+DEPCAN;Canton;1601;Angoulême-1;CHAR;5
+DEPCAN;Canton;1602;Angoulême-2;CHAR;5
+DEPCAN;Canton;1603;Angoulême-3;CHAR;5
+DEPCAN;Canton;1604;Boëme-Echelle;CHAR;5
+DEPCAN;Canton;1605;Boixe-et-Manslois;CHAR;5
+DEPCAN;Canton;1606;Charente-Bonnieure;CHAR;5
+DEPCAN;Canton;1607;Charente-Champagne;CHAR;5
+DEPCAN;Canton;1608;Charente-Nord;CHAR;5
+DEPCAN;Canton;1609;Charente-Sud;CHAR;5
+DEPCAN;Canton;1610;Charente-Vienne;CHAR;5
+DEPCAN;Canton;1611;Cognac-1;CHAR;5
+DEPCAN;Canton;1612;Cognac-2;CHAR;5
+DEPCAN;Canton;1613;La Couronne;CHAR;5
+DEPCAN;Canton;1614;Gond-Pontouvre;CHAR;5
+DEPCAN;Canton;1615;Jarnac;CHAR;5
+DEPCAN;Canton;1616;Touvre-et-Braconne;CHAR;5
+DEPCAN;Canton;1617;Tude-et-Lavalette;CHAR;5
+DEPCAN;Canton;1618;Val de Nouère;CHAR;5
+DEPCAN;Canton;1619;Val de Tardoire;CHAR;5
+DEPCAN;Canton;1701;Aytré;CHAR;5
+DEPCAN;Canton;1702;Chaniers;CHAR;5
+DEPCAN;Canton;1703;Châtelaillon-Plage;CHAR;5
+DEPCAN;Canton;1704;L' Île d'Oléron;CHAR;5
+DEPCAN;Canton;1705;L' Île de Ré;CHAR;5
+DEPCAN;Canton;1706;La Jarrie;CHAR;5
+DEPCAN;Canton;1707;Jonzac;CHAR;5
+DEPCAN;Canton;1708;Lagord;CHAR;5
+DEPCAN;Canton;1709;Marans;CHAR;5
+DEPCAN;Canton;1710;Marennes;CHAR;5
+DEPCAN;Canton;1711;Matha;CHAR;5
+DEPCAN;Canton;1712;Pons;CHAR;5
+DEPCAN;Canton;1713;Rochefort;CHAR;5
+DEPCAN;Canton;1714;La Rochelle-1;CHAR;5
+DEPCAN;Canton;1715;La Rochelle-2;CHAR;5
+DEPCAN;Canton;1716;La Rochelle-3;CHAR;5
+DEPCAN;Canton;1717;Royan;CHAR;5
+DEPCAN;Canton;1718;Saint-Jean-d'Angély;CHAR;5
+DEPCAN;Canton;1719;Saint-Porchaire;CHAR;5
+DEPCAN;Canton;1720;Saintes;CHAR;5
+DEPCAN;Canton;1721;Saintonge Estuaire;CHAR;5
+DEPCAN;Canton;1722;Saujon;CHAR;5
+DEPCAN;Canton;1723;Surgères;CHAR;5
+DEPCAN;Canton;1724;Thénac;CHAR;5
+DEPCAN;Canton;1725;Tonnay-Charente;CHAR;5
+DEPCAN;Canton;1726;La Tremblade;CHAR;5
+DEPCAN;Canton;1727;Les Trois Monts;CHAR;5
+DEPCAN;Canton;1801;Aubigny-sur-Nère;CHAR;5
+DEPCAN;Canton;1802;Avord;CHAR;5
+DEPCAN;Canton;1803;Bourges-1;CHAR;5
+DEPCAN;Canton;1804;Bourges-2;CHAR;5
+DEPCAN;Canton;1805;Bourges-3;CHAR;5
+DEPCAN;Canton;1806;Bourges-4;CHAR;5
+DEPCAN;Canton;1807;Chârost;CHAR;5
+DEPCAN;Canton;1808;Châteaumeillant;CHAR;5
+DEPCAN;Canton;1809;Dun-sur-Auron;CHAR;5
+DEPCAN;Canton;1810;La Guerche-sur-l'Aubois;CHAR;5
+DEPCAN;Canton;1811;Mehun-sur-Yèvre;CHAR;5
+DEPCAN;Canton;1812;Saint-Amand-Montrond;CHAR;5
+DEPCAN;Canton;1813;Saint-Doulchard;CHAR;5
+DEPCAN;Canton;1814;Saint-Germain-du-Puy;CHAR;5
+DEPCAN;Canton;1815;Saint-Martin-d'Auxigny;CHAR;5
+DEPCAN;Canton;1816;Sancerre;CHAR;5
+DEPCAN;Canton;1817;Trouy;CHAR;5
+DEPCAN;Canton;1818;Vierzon-1;CHAR;5
+DEPCAN;Canton;1819;Vierzon-2;CHAR;5
+DEPCAN;Canton;1901;Allassac;CHAR;5
+DEPCAN;Canton;1902;Argentat;CHAR;5
+DEPCAN;Canton;1903;Brive-la-Gaillarde-1;CHAR;5
+DEPCAN;Canton;1904;Brive-la-Gaillarde-2;CHAR;5
+DEPCAN;Canton;1905;Brive-la-Gaillarde-3;CHAR;5
+DEPCAN;Canton;1906;Brive-la-Gaillarde-4;CHAR;5
+DEPCAN;Canton;1907;Égletons;CHAR;5
+DEPCAN;Canton;1908;Haute-Dordogne;CHAR;5
+DEPCAN;Canton;1909;Malemort-sur-Corrèze;CHAR;5
+DEPCAN;Canton;1910;Midi Corrézien;CHAR;5
+DEPCAN;Canton;1911;Naves;CHAR;5
+DEPCAN;Canton;1912;Plateau de Millevaches;CHAR;5
+DEPCAN;Canton;1913;Saint-Pantaléon-de-Larche;CHAR;5
+DEPCAN;Canton;1914;Sainte-Fortunade;CHAR;5
+DEPCAN;Canton;1915;Seilhac-Monédières;CHAR;5
+DEPCAN;Canton;1916;Tulle;CHAR;5
+DEPCAN;Canton;1917;Ussel;CHAR;5
+DEPCAN;Canton;1918;Uzerche;CHAR;5
+DEPCAN;Canton;1919;L' Yssandonnais;CHAR;5
+DEPCAN;Canton;2A01;Ajaccio-1;CHAR;5
+DEPCAN;Canton;2A02;Ajaccio-2;CHAR;5
+DEPCAN;Canton;2A03;Ajaccio-3;CHAR;5
+DEPCAN;Canton;2A04;Ajaccio-4;CHAR;5
+DEPCAN;Canton;2A05;Ajaccio-5;CHAR;5
+DEPCAN;Canton;2A06;Bavella;CHAR;5
+DEPCAN;Canton;2A07;Grand Sud;CHAR;5
+DEPCAN;Canton;2A08;Gravona-Prunelli;CHAR;5
+DEPCAN;Canton;2A09;Sartenais-Valinco;CHAR;5
+DEPCAN;Canton;2A10;Sevi-Sorru-Cinarca;CHAR;5
+DEPCAN;Canton;2A11;Taravo-Ornano;CHAR;5
+DEPCAN;Canton;2B01;Bastia-1;CHAR;5
+DEPCAN;Canton;2B02;Bastia-2;CHAR;5
+DEPCAN;Canton;2B03;Bastia-3;CHAR;5
+DEPCAN;Canton;2B04;Bastia-4;CHAR;5
+DEPCAN;Canton;2B05;Biguglia-Nebbio;CHAR;5
+DEPCAN;Canton;2B06;Borgo;CHAR;5
+DEPCAN;Canton;2B07;Calvi;CHAR;5
+DEPCAN;Canton;2B08;Cap Corse;CHAR;5
+DEPCAN;Canton;2B09;Casinca-Fumalto;CHAR;5
+DEPCAN;Canton;2B10;Castagniccia;CHAR;5
+DEPCAN;Canton;2B11;Corte;CHAR;5
+DEPCAN;Canton;2B12;Fiumorbo-Castello;CHAR;5
+DEPCAN;Canton;2B13;Ghisonaccia;CHAR;5
+DEPCAN;Canton;2B14;Golo-Morosaglia;CHAR;5
+DEPCAN;Canton;2B15;L' île-Rousse;CHAR;5
+DEPCAN;Canton;2101;Arnay-le-Duc;CHAR;5
+DEPCAN;Canton;2102;Auxonne;CHAR;5
+DEPCAN;Canton;2103;Beaune;CHAR;5
+DEPCAN;Canton;2104;Brazey-en-Plaine;CHAR;5
+DEPCAN;Canton;2105;Châtillon-sur-Seine;CHAR;5
+DEPCAN;Canton;2106;Chenôve;CHAR;5
+DEPCAN;Canton;2107;Chevigny-Saint-Sauveur;CHAR;5
+DEPCAN;Canton;2108;Dijon-1;CHAR;5
+DEPCAN;Canton;2109;Dijon-2;CHAR;5
+DEPCAN;Canton;2110;Dijon-3;CHAR;5
+DEPCAN;Canton;2111;Dijon-4;CHAR;5
+DEPCAN;Canton;2112;Dijon-5;CHAR;5
+DEPCAN;Canton;2113;Dijon-6;CHAR;5
+DEPCAN;Canton;2114;Fontaine-lès-Dijon;CHAR;5
+DEPCAN;Canton;2115;Genlis;CHAR;5
+DEPCAN;Canton;2116;Is-sur-Tille;CHAR;5
+DEPCAN;Canton;2117;Ladoix-Serrigny;CHAR;5
+DEPCAN;Canton;2118;Longvic;CHAR;5
+DEPCAN;Canton;2119;Montbard;CHAR;5
+DEPCAN;Canton;2120;Nuits-Saint-Georges;CHAR;5
+DEPCAN;Canton;2121;Saint-Apollinaire;CHAR;5
+DEPCAN;Canton;2122;Semur-en-Auxois;CHAR;5
+DEPCAN;Canton;2123;Talant;CHAR;5
+DEPCAN;Canton;2201;Bégard;CHAR;5
+DEPCAN;Canton;2202;Broons;CHAR;5
+DEPCAN;Canton;2203;Callac;CHAR;5
+DEPCAN;Canton;2204;Dinan;CHAR;5
+DEPCAN;Canton;2205;Guingamp;CHAR;5
+DEPCAN;Canton;2206;Lamballe;CHAR;5
+DEPCAN;Canton;2207;Lannion;CHAR;5
+DEPCAN;Canton;2208;Lanvallay;CHAR;5
+DEPCAN;Canton;2209;Loudéac;CHAR;5
+DEPCAN;Canton;2210;Mûr-de-Bretagne;CHAR;5
+DEPCAN;Canton;2211;Paimpol;CHAR;5
+DEPCAN;Canton;2212;Perros-Guirec;CHAR;5
+DEPCAN;Canton;2213;Plaintel;CHAR;5
+DEPCAN;Canton;2214;Plancoët;CHAR;5
+DEPCAN;Canton;2215;Plélo;CHAR;5
+DEPCAN;Canton;2216;Plénée-Jugon;CHAR;5
+DEPCAN;Canton;2217;Pléneuf-Val-André;CHAR;5
+DEPCAN;Canton;2218;Plérin;CHAR;5
+DEPCAN;Canton;2219;Pleslin-Trigavou;CHAR;5
+DEPCAN;Canton;2220;Plestin-les-Grèves;CHAR;5
+DEPCAN;Canton;2221;Ploufragan;CHAR;5
+DEPCAN;Canton;2222;Plouha;CHAR;5
+DEPCAN;Canton;2223;Rostrenen;CHAR;5
+DEPCAN;Canton;2224;Saint-Brieuc-1;CHAR;5
+DEPCAN;Canton;2225;Saint-Brieuc-2;CHAR;5
+DEPCAN;Canton;2226;Trégueux;CHAR;5
+DEPCAN;Canton;2227;Tréguier;CHAR;5
+DEPCAN;Canton;2301;Ahun;CHAR;5
+DEPCAN;Canton;2302;Aubusson;CHAR;5
+DEPCAN;Canton;2303;Auzances;CHAR;5
+DEPCAN;Canton;2304;Bonnat;CHAR;5
+DEPCAN;Canton;2305;Bourganeuf;CHAR;5
+DEPCAN;Canton;2306;Boussac;CHAR;5
+DEPCAN;Canton;2307;Dun-le-Palestel;CHAR;5
+DEPCAN;Canton;2308;Évaux-les-Bains;CHAR;5
+DEPCAN;Canton;2309;Felletin;CHAR;5
+DEPCAN;Canton;2310;Gouzon;CHAR;5
+DEPCAN;Canton;2311;Le Grand-Bourg;CHAR;5
+DEPCAN;Canton;2312;Guéret-1;CHAR;5
+DEPCAN;Canton;2313;Guéret-2;CHAR;5
+DEPCAN;Canton;2314;Saint-Vaury;CHAR;5
+DEPCAN;Canton;2315;La Souterraine;CHAR;5
+DEPCAN;Canton;2401;Bergerac-1;CHAR;5
+DEPCAN;Canton;2402;Bergerac-2;CHAR;5
+DEPCAN;Canton;2403;Brantôme;CHAR;5
+DEPCAN;Canton;2404;Coulounieix-Chamiers;CHAR;5
+DEPCAN;Canton;2405;Le Haut-Périgord Noir;CHAR;5
+DEPCAN;Canton;2406;Isle-Loue-Auvézère;CHAR;5
+DEPCAN;Canton;2407;Isle-Manoire;CHAR;5
+DEPCAN;Canton;2408;Lalinde;CHAR;5
+DEPCAN;Canton;2409;Montpon-Ménestérol;CHAR;5
+DEPCAN;Canton;2410;Pays de la Force;CHAR;5
+DEPCAN;Canton;2411;Pays de Montaigne et Gurson;CHAR;5
+DEPCAN;Canton;2412;Périgord Central;CHAR;5
+DEPCAN;Canton;2413;Périgord Vert Nontronnais;CHAR;5
+DEPCAN;Canton;2414;Périgueux-1;CHAR;5
+DEPCAN;Canton;2415;Périgueux-2;CHAR;5
+DEPCAN;Canton;2416;Ribérac;CHAR;5
+DEPCAN;Canton;2417;Saint-Astier;CHAR;5
+DEPCAN;Canton;2418;Sarlat-la-Canéda;CHAR;5
+DEPCAN;Canton;2419;Sud-Bergeracois;CHAR;5
+DEPCAN;Canton;2420;Terrasson-Lavilledieu;CHAR;5
+DEPCAN;Canton;2421;Thiviers;CHAR;5
+DEPCAN;Canton;2422;Trélissac;CHAR;5
+DEPCAN;Canton;2425;Vallée de l'Homme;CHAR;5
+DEPCAN;Canton;2424;Vallée de l'Isle;CHAR;5
+DEPCAN;Canton;2423;Vallée Dordogne;CHAR;5
+DEPCAN;Canton;2501;Audincourt;CHAR;5
+DEPCAN;Canton;2502;Baume-les-Dames;CHAR;5
+DEPCAN;Canton;2503;Bavans;CHAR;5
+DEPCAN;Canton;2504;Besançon-1;CHAR;5
+DEPCAN;Canton;2505;Besançon-2;CHAR;5
+DEPCAN;Canton;2506;Besançon-3;CHAR;5
+DEPCAN;Canton;2507;Besançon-4;CHAR;5
+DEPCAN;Canton;2508;Besançon-5;CHAR;5
+DEPCAN;Canton;2509;Besançon-6;CHAR;5
+DEPCAN;Canton;2510;Bethoncourt;CHAR;5
+DEPCAN;Canton;2511;Frasne;CHAR;5
+DEPCAN;Canton;2512;Maîche;CHAR;5
+DEPCAN;Canton;2513;Montbéliard;CHAR;5
+DEPCAN;Canton;2514;Morteau;CHAR;5
+DEPCAN;Canton;2515;Ornans;CHAR;5
+DEPCAN;Canton;2516;Pontarlier;CHAR;5
+DEPCAN;Canton;2517;Saint-Vit;CHAR;5
+DEPCAN;Canton;2518;Valdahon;CHAR;5
+DEPCAN;Canton;2519;Valentigney;CHAR;5
+DEPCAN;Canton;2601;Bourg-de-Péage;CHAR;5
+DEPCAN;Canton;2602;Crest;CHAR;5
+DEPCAN;Canton;2603;Dieulefit;CHAR;5
+DEPCAN;Canton;2604;Le Diois;CHAR;5
+DEPCAN;Canton;2605;Drôme des collines;CHAR;5
+DEPCAN;Canton;2606;Grignan;CHAR;5
+DEPCAN;Canton;2607;Loriol-sur-Drôme;CHAR;5
+DEPCAN;Canton;2608;Montélimar-1;CHAR;5
+DEPCAN;Canton;2609;Montélimar-2;CHAR;5
+DEPCAN;Canton;2610;Nyons et Baronnies;CHAR;5
+DEPCAN;Canton;2611;Romans-sur-Isère;CHAR;5
+DEPCAN;Canton;2612;Saint-Vallier;CHAR;5
+DEPCAN;Canton;2613;Tain-l'Hermitage;CHAR;5
+DEPCAN;Canton;2614;Le Tricastin;CHAR;5
+DEPCAN;Canton;2615;Valence-1;CHAR;5
+DEPCAN;Canton;2616;Valence-2;CHAR;5
+DEPCAN;Canton;2617;Valence-3;CHAR;5
+DEPCAN;Canton;2618;Valence-4;CHAR;5
+DEPCAN;Canton;2619;Vercors-Monts du Matin;CHAR;5
+DEPCAN;Canton;2701;Les Andelys;CHAR;5
+DEPCAN;Canton;2702;Bernay;CHAR;5
+DEPCAN;Canton;2703;Beuzeville;CHAR;5
+DEPCAN;Canton;2704;Bourg-Achard;CHAR;5
+DEPCAN;Canton;2705;Bourgtheroulde-Infreville;CHAR;5
+DEPCAN;Canton;2706;Breteuil;CHAR;5
+DEPCAN;Canton;2707;Brionne;CHAR;5
+DEPCAN;Canton;2708;Conches-en-Ouche;CHAR;5
+DEPCAN;Canton;2709;Évreux-1;CHAR;5
+DEPCAN;Canton;2710;Évreux-2;CHAR;5
+DEPCAN;Canton;2711;Évreux-3;CHAR;5
+DEPCAN;Canton;2712;Gaillon;CHAR;5
+DEPCAN;Canton;2713;Gisors;CHAR;5
+DEPCAN;Canton;2714;Louviers;CHAR;5
+DEPCAN;Canton;2715;Le Neubourg;CHAR;5
+DEPCAN;Canton;2716;Pacy-sur-Eure;CHAR;5
+DEPCAN;Canton;2717;Pont-Audemer;CHAR;5
+DEPCAN;Canton;2718;Pont-de-l'Arche;CHAR;5
+DEPCAN;Canton;2719;Romilly-sur-Andelle;CHAR;5
+DEPCAN;Canton;2720;Saint-André-de-l'Eure;CHAR;5
+DEPCAN;Canton;2721;Val-de-Reuil;CHAR;5
+DEPCAN;Canton;2722;Verneuil-sur-Avre;CHAR;5
+DEPCAN;Canton;2723;Vernon;CHAR;5
+DEPCAN;Canton;2801;Anet;CHAR;5
+DEPCAN;Canton;2802;Auneau;CHAR;5
+DEPCAN;Canton;2803;Brou;CHAR;5
+DEPCAN;Canton;2804;Chartres-1;CHAR;5
+DEPCAN;Canton;2805;Chartres-2;CHAR;5
+DEPCAN;Canton;2806;Chartres-3;CHAR;5
+DEPCAN;Canton;2807;Châteaudun;CHAR;5
+DEPCAN;Canton;2808;Dreux-1;CHAR;5
+DEPCAN;Canton;2809;Dreux-2;CHAR;5
+DEPCAN;Canton;2810;Épernon;CHAR;5
+DEPCAN;Canton;2811;Illiers-Combray;CHAR;5
+DEPCAN;Canton;2812;Lucé;CHAR;5
+DEPCAN;Canton;2813;Nogent-le-Rotrou;CHAR;5
+DEPCAN;Canton;2814;Saint-Lubin-des-Joncherets;CHAR;5
+DEPCAN;Canton;2815;Voves;CHAR;5
+DEPCAN;Canton;2901;Brest-1;CHAR;5
+DEPCAN;Canton;2902;Brest-2;CHAR;5
+DEPCAN;Canton;2903;Brest-3;CHAR;5
+DEPCAN;Canton;2904;Brest-4;CHAR;5
+DEPCAN;Canton;2905;Brest-5;CHAR;5
+DEPCAN;Canton;2906;Briec;CHAR;5
+DEPCAN;Canton;2907;Carhaix-Plouguer;CHAR;5
+DEPCAN;Canton;2908;Concarneau;CHAR;5
+DEPCAN;Canton;2909;Crozon;CHAR;5
+DEPCAN;Canton;2910;Douarnenez;CHAR;5
+DEPCAN;Canton;2911;Fouesnant;CHAR;5
+DEPCAN;Canton;2912;Guipavas;CHAR;5
+DEPCAN;Canton;2913;Landerneau;CHAR;5
+DEPCAN;Canton;2914;Landivisiau;CHAR;5
+DEPCAN;Canton;2915;Lesneven;CHAR;5
+DEPCAN;Canton;2916;Moëlan-sur-Mer;CHAR;5
+DEPCAN;Canton;2917;Morlaix;CHAR;5
+DEPCAN;Canton;2918;Plabennec;CHAR;5
+DEPCAN;Canton;2919;Plonéour-Lanvern;CHAR;5
+DEPCAN;Canton;2920;Plouigneau;CHAR;5
+DEPCAN;Canton;2921;Pont-de-Buis-lès-Quimerch;CHAR;5
+DEPCAN;Canton;2922;Pont-l'Abbé;CHAR;5
+DEPCAN;Canton;2923;Quimper-1;CHAR;5
+DEPCAN;Canton;2924;Quimper-2;CHAR;5
+DEPCAN;Canton;2925;Quimperlé;CHAR;5
+DEPCAN;Canton;2926;Saint-Pol-de-Léon;CHAR;5
+DEPCAN;Canton;2927;Saint-Renan;CHAR;5
+DEPCAN;Canton;3001;Aigues-Mortes;CHAR;5
+DEPCAN;Canton;3002;Alès-1;CHAR;5
+DEPCAN;Canton;3003;Alès-2;CHAR;5
+DEPCAN;Canton;3004;Alès-3;CHAR;5
+DEPCAN;Canton;3005;Bagnols-sur-Cèze;CHAR;5
+DEPCAN;Canton;3006;Beaucaire;CHAR;5
+DEPCAN;Canton;3007;Calvisson;CHAR;5
+DEPCAN;Canton;3008;La Grand-Combe;CHAR;5
+DEPCAN;Canton;3009;Marguerittes;CHAR;5
+DEPCAN;Canton;3010;Nîmes-1;CHAR;5
+DEPCAN;Canton;3011;Nîmes-2;CHAR;5
+DEPCAN;Canton;3012;Nîmes-3;CHAR;5
+DEPCAN;Canton;3013;Nîmes-4;CHAR;5
+DEPCAN;Canton;3014;Pont-Saint-Esprit;CHAR;5
+DEPCAN;Canton;3015;Quissac;CHAR;5
+DEPCAN;Canton;3016;Redessan;CHAR;5
+DEPCAN;Canton;3017;Roquemaure;CHAR;5
+DEPCAN;Canton;3018;Rousson;CHAR;5
+DEPCAN;Canton;3019;Saint-Gilles;CHAR;5
+DEPCAN;Canton;3020;Uzès;CHAR;5
+DEPCAN;Canton;3021;Vauvert;CHAR;5
+DEPCAN;Canton;3022;Le Vigan;CHAR;5
+DEPCAN;Canton;3023;Villeneuve-lès-Avignon;CHAR;5
+DEPCAN;Canton;3101;Auterive;CHAR;5
+DEPCAN;Canton;3102;Bagnères-de-Luchon;CHAR;5
+DEPCAN;Canton;3103;Blagnac;CHAR;5
+DEPCAN;Canton;3104;Castanet-Tolosan;CHAR;5
+DEPCAN;Canton;3105;Castelginest;CHAR;5
+DEPCAN;Canton;3106;Cazères;CHAR;5
+DEPCAN;Canton;3107;Escalquens;CHAR;5
+DEPCAN;Canton;3108;Léguevin;CHAR;5
+DEPCAN;Canton;3109;Muret;CHAR;5
+DEPCAN;Canton;3110;Pechbonnieu;CHAR;5
+DEPCAN;Canton;3111;Plaisance-du-Touch;CHAR;5
+DEPCAN;Canton;3112;Portet-sur-Garonne;CHAR;5
+DEPCAN;Canton;3113;Revel;CHAR;5
+DEPCAN;Canton;3114;Saint-Gaudens;CHAR;5
+DEPCAN;Canton;3115;Toulouse-1;CHAR;5
+DEPCAN;Canton;3124;Toulouse-10;CHAR;5
+DEPCAN;Canton;3125;Toulouse-11;CHAR;5
+DEPCAN;Canton;3116;Toulouse-2;CHAR;5
+DEPCAN;Canton;3117;Toulouse-3;CHAR;5
+DEPCAN;Canton;3118;Toulouse-4;CHAR;5
+DEPCAN;Canton;3119;Toulouse-5;CHAR;5
+DEPCAN;Canton;3120;Toulouse-6;CHAR;5
+DEPCAN;Canton;3121;Toulouse-7;CHAR;5
+DEPCAN;Canton;3122;Toulouse-8;CHAR;5
+DEPCAN;Canton;3123;Toulouse-9;CHAR;5
+DEPCAN;Canton;3126;Tournefeuille;CHAR;5
+DEPCAN;Canton;3127;Villemur-sur-Tarn;CHAR;5
+DEPCAN;Canton;3201;Adour-Gersoise;CHAR;5
+DEPCAN;Canton;3202;Armagnac-Ténarèze;CHAR;5
+DEPCAN;Canton;3203;Astarac-Gimone;CHAR;5
+DEPCAN;Canton;3204;Auch-1;CHAR;5
+DEPCAN;Canton;3205;Auch-2;CHAR;5
+DEPCAN;Canton;3206;Auch-3;CHAR;5
+DEPCAN;Canton;3207;Baïse-Armagnac;CHAR;5
+DEPCAN;Canton;3208;Fezensac;CHAR;5
+DEPCAN;Canton;3209;Fleurance-Lomagne;CHAR;5
+DEPCAN;Canton;3210;Gascogne-Auscitaine;CHAR;5
+DEPCAN;Canton;3211;Gimone-Arrats;CHAR;5
+DEPCAN;Canton;3212;Grand-Bas-Armagnac;CHAR;5
+DEPCAN;Canton;3213;L' Isle-Jourdain;CHAR;5
+DEPCAN;Canton;3214;Lectoure-Lomagne;CHAR;5
+DEPCAN;Canton;3215;Mirande-Astarac;CHAR;5
+DEPCAN;Canton;3216;Pardiac-Rivière-Basse;CHAR;5
+DEPCAN;Canton;3217;Val de Save;CHAR;5
+DEPCAN;Canton;3301;Andernos-les-Bains;CHAR;5
+DEPCAN;Canton;3302;Bordeaux-1;CHAR;5
+DEPCAN;Canton;3303;Bordeaux-2;CHAR;5
+DEPCAN;Canton;3304;Bordeaux-3;CHAR;5
+DEPCAN;Canton;3305;Bordeaux-4;CHAR;5
+DEPCAN;Canton;3306;Bordeaux-5;CHAR;5
+DEPCAN;Canton;3307;Le Bouscat;CHAR;5
+DEPCAN;Canton;3308;La Brède;CHAR;5
+DEPCAN;Canton;3309;Cenon;CHAR;5
+DEPCAN;Canton;3310;Les Coteaux de Dordogne;CHAR;5
+DEPCAN;Canton;3311;Créon;CHAR;5
+DEPCAN;Canton;3312;L' Entre-Deux-Mers;CHAR;5
+DEPCAN;Canton;3313;L' Estuaire;CHAR;5
+DEPCAN;Canton;3314;Gujan-Mestras;CHAR;5
+DEPCAN;Canton;3315;Les Landes des Graves;CHAR;5
+DEPCAN;Canton;3316;Le Libournais-Fronsadais;CHAR;5
+DEPCAN;Canton;3317;Lormont;CHAR;5
+DEPCAN;Canton;3318;Mérignac-1;CHAR;5
+DEPCAN;Canton;3319;Mérignac-2;CHAR;5
+DEPCAN;Canton;3320;Le Nord-Gironde;CHAR;5
+DEPCAN;Canton;3321;Le Nord-Libournais;CHAR;5
+DEPCAN;Canton;3322;Le Nord-Médoc;CHAR;5
+DEPCAN;Canton;3323;Pessac-1;CHAR;5
+DEPCAN;Canton;3324;Pessac-2;CHAR;5
+DEPCAN;Canton;3325;Les Portes du Médoc;CHAR;5
+DEPCAN;Canton;3326;La Presqu'île;CHAR;5
+DEPCAN;Canton;3327;Le Réolais et Les Bastides;CHAR;5
+DEPCAN;Canton;3328;Saint-Médard-en-Jalles;CHAR;5
+DEPCAN;Canton;3329;Le Sud-Gironde;CHAR;5
+DEPCAN;Canton;3330;Le Sud-Médoc;CHAR;5
+DEPCAN;Canton;3331;Talence;CHAR;5
+DEPCAN;Canton;3332;La Teste-de-Buch;CHAR;5
+DEPCAN;Canton;3333;Villenave-d'Ornon;CHAR;5
+DEPCAN;Canton;3401;Agde;CHAR;5
+DEPCAN;Canton;3402;Béziers-1;CHAR;5
+DEPCAN;Canton;3403;Béziers-2;CHAR;5
+DEPCAN;Canton;3404;Béziers-3;CHAR;5
+DEPCAN;Canton;3405;Cazouls-lès-Béziers;CHAR;5
+DEPCAN;Canton;3406;Clermont-l'Hérault;CHAR;5
+DEPCAN;Canton;3407;Le Crès;CHAR;5
+DEPCAN;Canton;3408;Frontignan;CHAR;5
+DEPCAN;Canton;3409;Gignac;CHAR;5
+DEPCAN;Canton;3410;Lattes;CHAR;5
+DEPCAN;Canton;3411;Lodève;CHAR;5
+DEPCAN;Canton;3412;Lunel;CHAR;5
+DEPCAN;Canton;3413;Mauguio;CHAR;5
+DEPCAN;Canton;3414;Mèze;CHAR;5
+DEPCAN;Canton;3420;Montpellier - Castelnau-le-Lez;CHAR;5
+DEPCAN;Canton;3415;Montpellier-1;CHAR;5
+DEPCAN;Canton;3416;Montpellier-2;CHAR;5
+DEPCAN;Canton;3417;Montpellier-3;CHAR;5
+DEPCAN;Canton;3418;Montpellier-4;CHAR;5
+DEPCAN;Canton;3419;Montpellier-5;CHAR;5
+DEPCAN;Canton;3421;Pézenas;CHAR;5
+DEPCAN;Canton;3422;Pignan;CHAR;5
+DEPCAN;Canton;3423;Saint-Gély-du-Fesc;CHAR;5
+DEPCAN;Canton;3424;Saint-Pons-de-Thomières;CHAR;5
+DEPCAN;Canton;3425;Sète;CHAR;5
+DEPCAN;Canton;3501;Antrain;CHAR;5
+DEPCAN;Canton;3502;Bain-de-Bretagne;CHAR;5
+DEPCAN;Canton;3503;Betton;CHAR;5
+DEPCAN;Canton;3504;Bruz;CHAR;5
+DEPCAN;Canton;3505;Châteaugiron;CHAR;5
+DEPCAN;Canton;3506;Combourg;CHAR;5
+DEPCAN;Canton;3507;Dol-de-Bretagne;CHAR;5
+DEPCAN;Canton;3508;Fougères-1;CHAR;5
+DEPCAN;Canton;3509;Fougères-2;CHAR;5
+DEPCAN;Canton;3510;La Guerche-de-Bretagne;CHAR;5
+DEPCAN;Canton;3511;Guichen;CHAR;5
+DEPCAN;Canton;3512;Janzé;CHAR;5
+DEPCAN;Canton;3513;Liffré;CHAR;5
+DEPCAN;Canton;3514;Melesse;CHAR;5
+DEPCAN;Canton;3515;Montauban-de-Bretagne;CHAR;5
+DEPCAN;Canton;3516;Montfort-sur-Meu;CHAR;5
+DEPCAN;Canton;3517;Redon;CHAR;5
+DEPCAN;Canton;3518;Rennes-1;CHAR;5
+DEPCAN;Canton;3519;Rennes-2;CHAR;5
+DEPCAN;Canton;3520;Rennes-3;CHAR;5
+DEPCAN;Canton;3521;Rennes-4;CHAR;5
+DEPCAN;Canton;3522;Rennes-5;CHAR;5
+DEPCAN;Canton;3523;Rennes-6;CHAR;5
+DEPCAN;Canton;3524;Le Rheu;CHAR;5
+DEPCAN;Canton;3525;Saint-Malo-1;CHAR;5
+DEPCAN;Canton;3526;Saint-Malo-2;CHAR;5
+DEPCAN;Canton;3527;Vitré;CHAR;5
+DEPCAN;Canton;3601;Ardentes;CHAR;5
+DEPCAN;Canton;3602;Argenton-sur-Creuse;CHAR;5
+DEPCAN;Canton;3603;Le Blanc;CHAR;5
+DEPCAN;Canton;3604;Buzançais;CHAR;5
+DEPCAN;Canton;3605;Châteauroux-1;CHAR;5
+DEPCAN;Canton;3606;Châteauroux-2;CHAR;5
+DEPCAN;Canton;3607;Châteauroux-3;CHAR;5
+DEPCAN;Canton;3608;La Châtre;CHAR;5
+DEPCAN;Canton;3609;Issoudun;CHAR;5
+DEPCAN;Canton;3610;Levroux;CHAR;5
+DEPCAN;Canton;3611;Neuvy-Saint-Sépulchre;CHAR;5
+DEPCAN;Canton;3612;Saint-Gaultier;CHAR;5
+DEPCAN;Canton;3613;Valençay;CHAR;5
+DEPCAN;Canton;3701;Amboise;CHAR;5
+DEPCAN;Canton;3702;Ballan-Miré;CHAR;5
+DEPCAN;Canton;3703;Bléré;CHAR;5
+DEPCAN;Canton;3704;Château-Renault;CHAR;5
+DEPCAN;Canton;3705;Chinon;CHAR;5
+DEPCAN;Canton;3706;Descartes;CHAR;5
+DEPCAN;Canton;3707;Joué-lès-Tours;CHAR;5
+DEPCAN;Canton;3708;Langeais;CHAR;5
+DEPCAN;Canton;3709;Loches;CHAR;5
+DEPCAN;Canton;3710;Montlouis-sur-Loire;CHAR;5
+DEPCAN;Canton;3711;Monts;CHAR;5
+DEPCAN;Canton;3712;Saint-Cyr-sur-Loire;CHAR;5
+DEPCAN;Canton;3714;Saint-Pierre-des-Corps;CHAR;5
+DEPCAN;Canton;3713;Sainte-Maure-de-Touraine;CHAR;5
+DEPCAN;Canton;3715;Tours-1;CHAR;5
+DEPCAN;Canton;3716;Tours-2;CHAR;5
+DEPCAN;Canton;3717;Tours-3;CHAR;5
+DEPCAN;Canton;3718;Tours-4;CHAR;5
+DEPCAN;Canton;3719;Vouvray;CHAR;5
+DEPCAN;Canton;3801;Bièvre;CHAR;5
+DEPCAN;Canton;3802;Bourgoin-Jallieu;CHAR;5
+DEPCAN;Canton;3803;Chartreuse-Guiers;CHAR;5
+DEPCAN;Canton;3804;Charvieu-Chavagneux;CHAR;5
+DEPCAN;Canton;3805;Échirolles;CHAR;5
+DEPCAN;Canton;3806;Fontaine-Seyssinet;CHAR;5
+DEPCAN;Canton;3807;Fontaine-Vercors;CHAR;5
+DEPCAN;Canton;3808;Le Grand-Lemps;CHAR;5
+DEPCAN;Canton;3809;Grenoble-1;CHAR;5
+DEPCAN;Canton;3810;Grenoble-2;CHAR;5
+DEPCAN;Canton;3811;Grenoble-3;CHAR;5
+DEPCAN;Canton;3812;Grenoble-4;CHAR;5
+DEPCAN;Canton;3813;Le Haut-Grésivaudan;CHAR;5
+DEPCAN;Canton;3814;L' Isle-d'Abeau;CHAR;5
+DEPCAN;Canton;3815;Matheysine-Trièves;CHAR;5
+DEPCAN;Canton;3816;Meylan;CHAR;5
+DEPCAN;Canton;3817;Morestel;CHAR;5
+DEPCAN;Canton;3818;Le Moyen Grésivaudan;CHAR;5
+DEPCAN;Canton;3819;Oisans-Romanche;CHAR;5
+DEPCAN;Canton;3820;Le Pont-de-Claix;CHAR;5
+DEPCAN;Canton;3821;Roussillon;CHAR;5
+DEPCAN;Canton;3822;Saint-Martin-d'Hères;CHAR;5
+DEPCAN;Canton;3823;Le Sud Grésivaudan;CHAR;5
+DEPCAN;Canton;3824;La Tour-du-Pin;CHAR;5
+DEPCAN;Canton;3825;Tullins;CHAR;5
+DEPCAN;Canton;3826;La Verpillière;CHAR;5
+DEPCAN;Canton;3827;Vienne-1;CHAR;5
+DEPCAN;Canton;3828;Vienne-2;CHAR;5
+DEPCAN;Canton;3829;Voiron;CHAR;5
+DEPCAN;Canton;3901;Arbois;CHAR;5
+DEPCAN;Canton;3902;Authume;CHAR;5
+DEPCAN;Canton;3903;Bletterans;CHAR;5
+DEPCAN;Canton;3904;Champagnole;CHAR;5
+DEPCAN;Canton;3905;Dole-1;CHAR;5
+DEPCAN;Canton;3906;Dole-2;CHAR;5
+DEPCAN;Canton;3907;Lons-le-Saunier-1;CHAR;5
+DEPCAN;Canton;3908;Lons-le-Saunier-2;CHAR;5
+DEPCAN;Canton;3909;Moirans-en-Montagne;CHAR;5
+DEPCAN;Canton;3910;Mont-sous-Vaudrey;CHAR;5
+DEPCAN;Canton;3911;Morez;CHAR;5
+DEPCAN;Canton;3912;Poligny;CHAR;5
+DEPCAN;Canton;3913;Saint-Amour;CHAR;5
+DEPCAN;Canton;3914;Saint-Claude;CHAR;5
+DEPCAN;Canton;3915;Saint-Laurent-en-Grandvaux;CHAR;5
+DEPCAN;Canton;3916;Saint-Lupicin;CHAR;5
+DEPCAN;Canton;3917;Tavaux;CHAR;5
+DEPCAN;Canton;4001;Adour Armagnac;CHAR;5
+DEPCAN;Canton;4002;Chalosse Tursan;CHAR;5
+DEPCAN;Canton;4003;Côte d'Argent;CHAR;5
+DEPCAN;Canton;4004;Coteau de Chalosse;CHAR;5
+DEPCAN;Canton;4005;Dax-1;CHAR;5
+DEPCAN;Canton;4006;Dax-2;CHAR;5
+DEPCAN;Canton;4007;Grands Lacs;CHAR;5
+DEPCAN;Canton;4008;Haute Lande Armagnac;CHAR;5
+DEPCAN;Canton;4009;Marensin Sud;CHAR;5
+DEPCAN;Canton;4010;Mont-de-Marsan-1;CHAR;5
+DEPCAN;Canton;4011;Mont-de-Marsan-2;CHAR;5
+DEPCAN;Canton;4012;Orthe et Arrigans;CHAR;5
+DEPCAN;Canton;4013;Pays morcenais tarusate;CHAR;5
+DEPCAN;Canton;4014;Pays Tyrossais;CHAR;5
+DEPCAN;Canton;4015;Seignanx;CHAR;5
+DEPCAN;Canton;4101;La Beauce;CHAR;5
+DEPCAN;Canton;4102;Blois-1;CHAR;5
+DEPCAN;Canton;4103;Blois-2;CHAR;5
+DEPCAN;Canton;4104;Blois-3;CHAR;5
+DEPCAN;Canton;4105;Chambord;CHAR;5
+DEPCAN;Canton;4106;Montoire-sur-le-Loir;CHAR;5
+DEPCAN;Canton;4107;Montrichard;CHAR;5
+DEPCAN;Canton;4108;Onzain;CHAR;5
+DEPCAN;Canton;4109;Le Perche;CHAR;5
+DEPCAN;Canton;4110;Romorantin-Lanthenay;CHAR;5
+DEPCAN;Canton;4111;Saint-Aignan;CHAR;5
+DEPCAN;Canton;4112;Selles-sur-Cher;CHAR;5
+DEPCAN;Canton;4113;La Sologne;CHAR;5
+DEPCAN;Canton;4114;Vendôme;CHAR;5
+DEPCAN;Canton;4115;Vineuil;CHAR;5
+DEPCAN;Canton;4201;Andrézieux-Bouthéon;CHAR;5
+DEPCAN;Canton;4202;Boën-sur-Lignon;CHAR;5
+DEPCAN;Canton;4203;Charlieu;CHAR;5
+DEPCAN;Canton;4204;Le Coteau;CHAR;5
+DEPCAN;Canton;4205;Feurs;CHAR;5
+DEPCAN;Canton;4206;Firminy;CHAR;5
+DEPCAN;Canton;4207;Montbrison;CHAR;5
+DEPCAN;Canton;4208;Le Pilat;CHAR;5
+DEPCAN;Canton;4209;Renaison;CHAR;5
+DEPCAN;Canton;4210;Rive-de-Gier;CHAR;5
+DEPCAN;Canton;4211;Roanne-1;CHAR;5
+DEPCAN;Canton;4212;Roanne-2;CHAR;5
+DEPCAN;Canton;4213;Saint-Chamond;CHAR;5
+DEPCAN;Canton;4214;Saint-Etienne-1;CHAR;5
+DEPCAN;Canton;4215;Saint-Etienne-2;CHAR;5
+DEPCAN;Canton;4216;Saint-Etienne-3;CHAR;5
+DEPCAN;Canton;4217;Saint-Etienne-4;CHAR;5
+DEPCAN;Canton;4218;Saint-Etienne-5;CHAR;5
+DEPCAN;Canton;4219;Saint-Etienne-6;CHAR;5
+DEPCAN;Canton;4220;Saint-Just-Saint-Rambert;CHAR;5
+DEPCAN;Canton;4221;Sorbiers;CHAR;5
+DEPCAN;Canton;4301;Aurec-sur-Loire;CHAR;5
+DEPCAN;Canton;4302;Bas-en-Basset;CHAR;5
+DEPCAN;Canton;4303;Boutières;CHAR;5
+DEPCAN;Canton;4304;Brioude;CHAR;5
+DEPCAN;Canton;4305;Les Deux Rivières et Vallées;CHAR;5
+DEPCAN;Canton;4306;Emblavez-et-Meygal;CHAR;5
+DEPCAN;Canton;4307;Gorges de l'Allier-Gévaudan;CHAR;5
+DEPCAN;Canton;4308;Mézenc;CHAR;5
+DEPCAN;Canton;4309;Monistrol-sur-Loire;CHAR;5
+DEPCAN;Canton;4310;Pays de Lafayette;CHAR;5
+DEPCAN;Canton;4311;Plateau du Haut-Velay granitique;CHAR;5
+DEPCAN;Canton;4312;Le Puy-en-Velay-1;CHAR;5
+DEPCAN;Canton;4313;Le Puy-en-Velay-2;CHAR;5
+DEPCAN;Canton;4314;Le Puy-en-Velay-3;CHAR;5
+DEPCAN;Canton;4315;Le Puy-en-Velay-4;CHAR;5
+DEPCAN;Canton;4316;Saint-Paulien;CHAR;5
+DEPCAN;Canton;4317;Sainte-Florine;CHAR;5
+DEPCAN;Canton;4318;Velay volcanique;CHAR;5
+DEPCAN;Canton;4319;Yssingeaux;CHAR;5
+DEPCAN;Canton;4401;Ancenis;CHAR;5
+DEPCAN;Canton;4402;La Baule-Escoublac;CHAR;5
+DEPCAN;Canton;4403;Blain;CHAR;5
+DEPCAN;Canton;4404;Carquefou;CHAR;5
+DEPCAN;Canton;4405;La Chapelle-sur-Erdre;CHAR;5
+DEPCAN;Canton;4406;Châteaubriant;CHAR;5
+DEPCAN;Canton;4407;Clisson;CHAR;5
+DEPCAN;Canton;4408;Guémené-Penfao;CHAR;5
+DEPCAN;Canton;4409;Guérande;CHAR;5
+DEPCAN;Canton;4410;Machecoul;CHAR;5
+DEPCAN;Canton;4411;Nantes-1;CHAR;5
+DEPCAN;Canton;4412;Nantes-2;CHAR;5
+DEPCAN;Canton;4413;Nantes-3;CHAR;5
+DEPCAN;Canton;4414;Nantes-4;CHAR;5
+DEPCAN;Canton;4415;Nantes-5;CHAR;5
+DEPCAN;Canton;4416;Nantes-6;CHAR;5
+DEPCAN;Canton;4417;Nantes-7;CHAR;5
+DEPCAN;Canton;4418;Nort-sur-Erdre;CHAR;5
+DEPCAN;Canton;4419;Pontchâteau;CHAR;5
+DEPCAN;Canton;4420;Pornic;CHAR;5
+DEPCAN;Canton;4421;Rezé-1;CHAR;5
+DEPCAN;Canton;4422;Rezé-2;CHAR;5
+DEPCAN;Canton;4423;Saint-Brevin-les-Pins;CHAR;5
+DEPCAN;Canton;4424;Saint-Herblain-1;CHAR;5
+DEPCAN;Canton;4425;Saint-Herblain-2;CHAR;5
+DEPCAN;Canton;4426;Saint-Nazaire-1;CHAR;5
+DEPCAN;Canton;4427;Saint-Nazaire-2;CHAR;5
+DEPCAN;Canton;4428;Saint-Philbert-de-Grand-Lieu;CHAR;5
+DEPCAN;Canton;4429;Saint-Sébastien-sur-Loire;CHAR;5
+DEPCAN;Canton;4430;Vallet;CHAR;5
+DEPCAN;Canton;4431;Vertou;CHAR;5
+DEPCAN;Canton;4501;Beaugency;CHAR;5
+DEPCAN;Canton;4502;Châlette-sur-Loing;CHAR;5
+DEPCAN;Canton;4503;Châteauneuf-sur-Loire;CHAR;5
+DEPCAN;Canton;4504;Courtenay;CHAR;5
+DEPCAN;Canton;4505;La Ferté-Saint-Aubin;CHAR;5
+DEPCAN;Canton;4506;Fleury-les-Aubrais;CHAR;5
+DEPCAN;Canton;4507;Gien;CHAR;5
+DEPCAN;Canton;4508;Lorris;CHAR;5
+DEPCAN;Canton;4509;Malesherbes;CHAR;5
+DEPCAN;Canton;4510;Meung-sur-Loire;CHAR;5
+DEPCAN;Canton;4511;Montargis;CHAR;5
+DEPCAN;Canton;4512;Olivet;CHAR;5
+DEPCAN;Canton;4513;Orléans-1;CHAR;5
+DEPCAN;Canton;4514;Orléans-2;CHAR;5
+DEPCAN;Canton;4515;Orléans-3;CHAR;5
+DEPCAN;Canton;4516;Orléans-4;CHAR;5
+DEPCAN;Canton;4517;Pithiviers;CHAR;5
+DEPCAN;Canton;4518;Saint-Jean-de-Braye;CHAR;5
+DEPCAN;Canton;4519;Saint-Jean-de-la-Ruelle;CHAR;5
+DEPCAN;Canton;4520;Saint-Jean-le-Blanc;CHAR;5
+DEPCAN;Canton;4521;Sully-sur-Loire;CHAR;5
+DEPCAN;Canton;4601;Cahors-1;CHAR;5
+DEPCAN;Canton;4602;Cahors-2;CHAR;5
+DEPCAN;Canton;4603;Cahors-3;CHAR;5
+DEPCAN;Canton;4604;Causse et Bouriane;CHAR;5
+DEPCAN;Canton;4605;Causse et Vallées;CHAR;5
+DEPCAN;Canton;4606;Cère et Ségala;CHAR;5
+DEPCAN;Canton;4607;Figeac-1;CHAR;5
+DEPCAN;Canton;4608;Figeac-2;CHAR;5
+DEPCAN;Canton;4609;Gourdon;CHAR;5
+DEPCAN;Canton;4610;Gramat;CHAR;5
+DEPCAN;Canton;4611;Lacapelle-Marival;CHAR;5
+DEPCAN;Canton;4612;Luzech;CHAR;5
+DEPCAN;Canton;4613;Marches du Sud-Quercy;CHAR;5
+DEPCAN;Canton;4614;Martel;CHAR;5
+DEPCAN;Canton;4615;Puy-l'Evêque;CHAR;5
+DEPCAN;Canton;4616;Saint-Céré;CHAR;5
+DEPCAN;Canton;4617;Souillac;CHAR;5
+DEPCAN;Canton;4701;Agen-1;CHAR;5
+DEPCAN;Canton;4702;Agen-2;CHAR;5
+DEPCAN;Canton;4703;Agen-3;CHAR;5
+DEPCAN;Canton;4704;Agen-4;CHAR;5
+DEPCAN;Canton;4705;L' Albret;CHAR;5
+DEPCAN;Canton;4706;Le Confluent;CHAR;5
+DEPCAN;Canton;4707;Les Coteaux de Guyenne;CHAR;5
+DEPCAN;Canton;4708;Les Forêts de Gascogne;CHAR;5
+DEPCAN;Canton;4709;Le Fumélois;CHAR;5
+DEPCAN;Canton;4710;Le Haut Agenais Périgord;CHAR;5
+DEPCAN;Canton;4711;Lavardac;CHAR;5
+DEPCAN;Canton;4712;Le Livradais;CHAR;5
+DEPCAN;Canton;4713;Marmande-1;CHAR;5
+DEPCAN;Canton;4714;Marmande-2;CHAR;5
+DEPCAN;Canton;4715;L' Ouest agenais;CHAR;5
+DEPCAN;Canton;4716;Le Pays de Serres;CHAR;5
+DEPCAN;Canton;4717;Le Sud-Est agenais;CHAR;5
+DEPCAN;Canton;4718;Tonneins;CHAR;5
+DEPCAN;Canton;4719;Le Val du Dropt;CHAR;5
+DEPCAN;Canton;4720;Villeneuve-sur-Lot-1;CHAR;5
+DEPCAN;Canton;4721;Villeneuve-sur-Lot-2;CHAR;5
+DEPCAN;Canton;4801;Aumont-Aubrac;CHAR;5
+DEPCAN;Canton;4802;La Canourgue;CHAR;5
+DEPCAN;Canton;4803;Chirac;CHAR;5
+DEPCAN;Canton;4804;Le Collet-de-Dèze;CHAR;5
+DEPCAN;Canton;4805;Florac;CHAR;5
+DEPCAN;Canton;4806;Grandrieu;CHAR;5
+DEPCAN;Canton;4807;Langogne;CHAR;5
+DEPCAN;Canton;4808;Marvejols;CHAR;5
+DEPCAN;Canton;4809;Mende-1;CHAR;5
+DEPCAN;Canton;4810;Mende-2;CHAR;5
+DEPCAN;Canton;4811;Saint-Alban-sur-Limagnole;CHAR;5
+DEPCAN;Canton;4812;Saint-Chély-d'Apcher;CHAR;5
+DEPCAN;Canton;4813;Saint-Etienne-du-Valdonnez;CHAR;5
+DEPCAN;Canton;4901;Angers-1;CHAR;5
+DEPCAN;Canton;4902;Angers-2;CHAR;5
+DEPCAN;Canton;4903;Angers-3;CHAR;5
+DEPCAN;Canton;4904;Angers-4;CHAR;5
+DEPCAN;Canton;4905;Angers-5;CHAR;5
+DEPCAN;Canton;4906;Angers-6;CHAR;5
+DEPCAN;Canton;4907;Angers-7;CHAR;5
+DEPCAN;Canton;4908;Beaufort-en-Vallée;CHAR;5
+DEPCAN;Canton;4909;Beaupréau;CHAR;5
+DEPCAN;Canton;4910;Chalonnes-sur-Loire;CHAR;5
+DEPCAN;Canton;4911;Chemillé-Melay;CHAR;5
+DEPCAN;Canton;4912;Cholet-1;CHAR;5
+DEPCAN;Canton;4913;Cholet-2;CHAR;5
+DEPCAN;Canton;4914;Doué-la-Fontaine;CHAR;5
+DEPCAN;Canton;4915;Longué-Jumelles;CHAR;5
+DEPCAN;Canton;4916;La Pommeraye;CHAR;5
+DEPCAN;Canton;4917;Les Ponts-de-Cé;CHAR;5
+DEPCAN;Canton;4918;Saint-Macaire-en-Mauges;CHAR;5
+DEPCAN;Canton;4919;Saumur;CHAR;5
+DEPCAN;Canton;4920;Segré;CHAR;5
+DEPCAN;Canton;4921;Tiercé;CHAR;5
+DEPCAN;Canton;5001;Agon-Coutainville;CHAR;5
+DEPCAN;Canton;5002;Avranches;CHAR;5
+DEPCAN;Canton;5003;Bréhal;CHAR;5
+DEPCAN;Canton;5004;Bricquebec;CHAR;5
+DEPCAN;Canton;5005;Carentan;CHAR;5
+DEPCAN;Canton;5006;Cherbourg-Octeville-1;CHAR;5
+DEPCAN;Canton;5007;Cherbourg-Octeville-2;CHAR;5
+DEPCAN;Canton;5008;Cherbourg-Octeville-3;CHAR;5
+DEPCAN;Canton;5009;Condé-sur-Vire;CHAR;5
+DEPCAN;Canton;5010;Coutances;CHAR;5
+DEPCAN;Canton;5011;Créances;CHAR;5
+DEPCAN;Canton;5012;Équeurdreville-Hainneville;CHAR;5
+DEPCAN;Canton;5013;Granville;CHAR;5
+DEPCAN;Canton;5014;La Hague;CHAR;5
+DEPCAN;Canton;5015;Isigny-le-Buat;CHAR;5
+DEPCAN;Canton;5016;Le Mortainais;CHAR;5
+DEPCAN;Canton;5017;Les Pieux;CHAR;5
+DEPCAN;Canton;5018;Pont-Hébert;CHAR;5
+DEPCAN;Canton;5019;Pontorson;CHAR;5
+DEPCAN;Canton;5020;Quettreville-sur-Sienne;CHAR;5
+DEPCAN;Canton;5021;Saint-Hilaire-du-Harcouët;CHAR;5
+DEPCAN;Canton;5022;Saint-Lô-1;CHAR;5
+DEPCAN;Canton;5023;Saint-Lô-2;CHAR;5
+DEPCAN;Canton;5024;Tourlaville;CHAR;5
+DEPCAN;Canton;5026;Val-de-Saire;CHAR;5
+DEPCAN;Canton;5025;Valognes;CHAR;5
+DEPCAN;Canton;5027;Villedieu-les-Poêles;CHAR;5
+DEPCAN;Canton;5101;Argonne Suippe et Vesle;CHAR;5
+DEPCAN;Canton;5102;Bourgogne;CHAR;5
+DEPCAN;Canton;5103;Châlons-en-Champagne-1;CHAR;5
+DEPCAN;Canton;5104;Châlons-en-Champagne-2;CHAR;5
+DEPCAN;Canton;5105;Châlons-en-Champagne-3;CHAR;5
+DEPCAN;Canton;5106;Dormans-Paysages de Champagne;CHAR;5
+DEPCAN;Canton;5107;Épernay-1;CHAR;5
+DEPCAN;Canton;5108;Épernay-2;CHAR;5
+DEPCAN;Canton;5109;Fismes-Montagne de Reims;CHAR;5
+DEPCAN;Canton;5110;Mourmelon-Vesle et Monts de Champagne;CHAR;5
+DEPCAN;Canton;5111;Reims-1;CHAR;5
+DEPCAN;Canton;5112;Reims-2;CHAR;5
+DEPCAN;Canton;5113;Reims-3;CHAR;5
+DEPCAN;Canton;5114;Reims-4;CHAR;5
+DEPCAN;Canton;5115;Reims-5;CHAR;5
+DEPCAN;Canton;5116;Reims-6;CHAR;5
+DEPCAN;Canton;5117;Reims-7;CHAR;5
+DEPCAN;Canton;5118;Reims-8;CHAR;5
+DEPCAN;Canton;5119;Reims-9;CHAR;5
+DEPCAN;Canton;5120;Sermaize-les-Bains;CHAR;5
+DEPCAN;Canton;5121;Sézanne-Brie et Champagne;CHAR;5
+DEPCAN;Canton;5122;Vertus-Plaine Champenoise;CHAR;5
+DEPCAN;Canton;5123;Vitry-le-François-Champagne et Der;CHAR;5
+DEPCAN;Canton;5201;Bologne;CHAR;5
+DEPCAN;Canton;5202;Bourbonne-les-Bains;CHAR;5
+DEPCAN;Canton;5203;Chalindrey;CHAR;5
+DEPCAN;Canton;5204;Châteauvillain;CHAR;5
+DEPCAN;Canton;5205;Chaumont-1;CHAR;5
+DEPCAN;Canton;5206;Chaumont-2;CHAR;5
+DEPCAN;Canton;5207;Chaumont-3;CHAR;5
+DEPCAN;Canton;5208;Eurville-Bienville;CHAR;5
+DEPCAN;Canton;5209;Joinville;CHAR;5
+DEPCAN;Canton;5210;Langres;CHAR;5
+DEPCAN;Canton;5211;Nogent;CHAR;5
+DEPCAN;Canton;5212;Poissons;CHAR;5
+DEPCAN;Canton;5213;Saint-Dizier-1;CHAR;5
+DEPCAN;Canton;5214;Saint-Dizier-2;CHAR;5
+DEPCAN;Canton;5215;Saint-Dizier-3;CHAR;5
+DEPCAN;Canton;5216;Villegusien-le-Lac;CHAR;5
+DEPCAN;Canton;5217;Wassy;CHAR;5
+DEPCAN;Canton;5301;Azé;CHAR;5
+DEPCAN;Canton;5302;Bonchamp-lès-Laval;CHAR;5
+DEPCAN;Canton;5303;Château-Gontier;CHAR;5
+DEPCAN;Canton;5304;Cossé-le-Vivien;CHAR;5
+DEPCAN;Canton;5305;Ernée;CHAR;5
+DEPCAN;Canton;5306;Évron;CHAR;5
+DEPCAN;Canton;5307;Gorron;CHAR;5
+DEPCAN;Canton;5308;L' Huisserie;CHAR;5
+DEPCAN;Canton;5309;Lassay-les-Châteaux;CHAR;5
+DEPCAN;Canton;5310;Laval-1;CHAR;5
+DEPCAN;Canton;5311;Laval-2;CHAR;5
+DEPCAN;Canton;5312;Laval-3;CHAR;5
+DEPCAN;Canton;5313;Loiron;CHAR;5
+DEPCAN;Canton;5314;Mayenne;CHAR;5
+DEPCAN;Canton;5315;Meslay-du-Maine;CHAR;5
+DEPCAN;Canton;5316;Saint-Berthevin;CHAR;5
+DEPCAN;Canton;5317;Villaines-la-Juhel;CHAR;5
+DEPCAN;Canton;5401;Baccarat;CHAR;5
+DEPCAN;Canton;5402;Entre Seille et Meurthe;CHAR;5
+DEPCAN;Canton;5403;Grand Couronné;CHAR;5
+DEPCAN;Canton;5404;Jarny;CHAR;5
+DEPCAN;Canton;5405;Jarville-la-Malgrange;CHAR;5
+DEPCAN;Canton;5406;Laxou;CHAR;5
+DEPCAN;Canton;5407;Longwy;CHAR;5
+DEPCAN;Canton;5408;Lunéville-1;CHAR;5
+DEPCAN;Canton;5409;Lunéville-2;CHAR;5
+DEPCAN;Canton;5410;Meine au Saintois;CHAR;5
+DEPCAN;Canton;5411;Mont-Saint-Martin;CHAR;5
+DEPCAN;Canton;5412;Nancy-1;CHAR;5
+DEPCAN;Canton;5413;Nancy-2;CHAR;5
+DEPCAN;Canton;5414;Nancy-3;CHAR;5
+DEPCAN;Canton;5415;Neuves-Maisons;CHAR;5
+DEPCAN;Canton;5416;Le Nord-Toulois;CHAR;5
+DEPCAN;Canton;5417;Pays de Briey;CHAR;5
+DEPCAN;Canton;5418;Pont-à-Mousson;CHAR;5
+DEPCAN;Canton;5419;Saint-Max;CHAR;5
+DEPCAN;Canton;5420;Toul;CHAR;5
+DEPCAN;Canton;5421;Val de Lorraine Sud;CHAR;5
+DEPCAN;Canton;5422;VandSuvre-lès-Nancy;CHAR;5
+DEPCAN;Canton;5423;Villerupt;CHAR;5
+DEPCAN;Canton;5501;Ancerville;CHAR;5
+DEPCAN;Canton;5502;Bar-le-Duc-1;CHAR;5
+DEPCAN;Canton;5503;Bar-le-Duc-2;CHAR;5
+DEPCAN;Canton;5504;Belleville-sur-Meuse;CHAR;5
+DEPCAN;Canton;5505;Bouligny;CHAR;5
+DEPCAN;Canton;5506;Clermont-en-Argonne;CHAR;5
+DEPCAN;Canton;5507;Commercy;CHAR;5
+DEPCAN;Canton;5508;Dieue-sur-Meuse;CHAR;5
+DEPCAN;Canton;5509;Étain;CHAR;5
+DEPCAN;Canton;5510;Ligny-en-Barrois;CHAR;5
+DEPCAN;Canton;5511;Montmédy;CHAR;5
+DEPCAN;Canton;5512;Revigny-sur-Ornain;CHAR;5
+DEPCAN;Canton;5513;Saint-Mihiel;CHAR;5
+DEPCAN;Canton;5514;Stenay;CHAR;5
+DEPCAN;Canton;5515;Vaucouleurs;CHAR;5
+DEPCAN;Canton;5516;Verdun-1;CHAR;5
+DEPCAN;Canton;5517;Verdun-2;CHAR;5
+DEPCAN;Canton;5601;Auray;CHAR;5
+DEPCAN;Canton;5602;Gourin;CHAR;5
+DEPCAN;Canton;5603;Grand-Champ;CHAR;5
+DEPCAN;Canton;5604;Guer;CHAR;5
+DEPCAN;Canton;5605;Guidel;CHAR;5
+DEPCAN;Canton;5606;Hennebont;CHAR;5
+DEPCAN;Canton;5607;Lanester;CHAR;5
+DEPCAN;Canton;5608;Lorient-1;CHAR;5
+DEPCAN;Canton;5609;Lorient-2;CHAR;5
+DEPCAN;Canton;5610;Moréac;CHAR;5
+DEPCAN;Canton;5611;Muzillac;CHAR;5
+DEPCAN;Canton;5612;Ploemeur;CHAR;5
+DEPCAN;Canton;5613;Ploërmel;CHAR;5
+DEPCAN;Canton;5614;Pluvigner;CHAR;5
+DEPCAN;Canton;5615;Pontivy;CHAR;5
+DEPCAN;Canton;5616;Questembert;CHAR;5
+DEPCAN;Canton;5617;Quiberon;CHAR;5
+DEPCAN;Canton;5618;Séné;CHAR;5
+DEPCAN;Canton;5619;Vannes-1;CHAR;5
+DEPCAN;Canton;5620;Vannes-2;CHAR;5
+DEPCAN;Canton;5621;Vannes-3;CHAR;5
+DEPCAN;Canton;5701;Algrange;CHAR;5
+DEPCAN;Canton;5702;Bitche;CHAR;5
+DEPCAN;Canton;5703;Boulay-Moselle;CHAR;5
+DEPCAN;Canton;5704;Bouzonville;CHAR;5
+DEPCAN;Canton;5705;Les Coteaux de Moselle;CHAR;5
+DEPCAN;Canton;5706;Fameck;CHAR;5
+DEPCAN;Canton;5707;Faulquemont;CHAR;5
+DEPCAN;Canton;5708;Forbach;CHAR;5
+DEPCAN;Canton;5709;Freyming-Merlebach;CHAR;5
+DEPCAN;Canton;5710;Hayange;CHAR;5
+DEPCAN;Canton;5711;Metz-1;CHAR;5
+DEPCAN;Canton;5712;Metz-2;CHAR;5
+DEPCAN;Canton;5713;Metz-3;CHAR;5
+DEPCAN;Canton;5714;Metzervisse;CHAR;5
+DEPCAN;Canton;5715;Montigny-lès-Metz;CHAR;5
+DEPCAN;Canton;5716;Le Pays Messin;CHAR;5
+DEPCAN;Canton;5717;Phalsbourg;CHAR;5
+DEPCAN;Canton;5718;Rombas;CHAR;5
+DEPCAN;Canton;5719;Saint-Avold;CHAR;5
+DEPCAN;Canton;5720;Sarralbe;CHAR;5
+DEPCAN;Canton;5721;Sarrebourg;CHAR;5
+DEPCAN;Canton;5722;Sarreguemines;CHAR;5
+DEPCAN;Canton;5723;Le Saulnois;CHAR;5
+DEPCAN;Canton;5724;Le Sillon Mosellan;CHAR;5
+DEPCAN;Canton;5725;Stiring-Wendel;CHAR;5
+DEPCAN;Canton;5726;Thionville;CHAR;5
+DEPCAN;Canton;5727;Yutz;CHAR;5
+DEPCAN;Canton;5801;La Charité-sur-Loire;CHAR;5
+DEPCAN;Canton;5802;Château-Chinon;CHAR;5
+DEPCAN;Canton;5803;Clamecy;CHAR;5
+DEPCAN;Canton;5804;Corbigny;CHAR;5
+DEPCAN;Canton;5805;Cosne-Cours-sur-Loire;CHAR;5
+DEPCAN;Canton;5806;Decize;CHAR;5
+DEPCAN;Canton;5807;Fourchambault;CHAR;5
+DEPCAN;Canton;5808;Guérigny;CHAR;5
+DEPCAN;Canton;5809;Imphy;CHAR;5
+DEPCAN;Canton;5810;Luzy;CHAR;5
+DEPCAN;Canton;5811;Nevers-1;CHAR;5
+DEPCAN;Canton;5812;Nevers-2;CHAR;5
+DEPCAN;Canton;5813;Nevers-3;CHAR;5
+DEPCAN;Canton;5814;Nevers-4;CHAR;5
+DEPCAN;Canton;5815;Pouilly-sur-Loire;CHAR;5
+DEPCAN;Canton;5816;Saint-Pierre-le-Moûtier;CHAR;5
+DEPCAN;Canton;5817;Varennes-Vauzelles;CHAR;5
+DEPCAN;Canton;5901;Aniche;CHAR;5
+DEPCAN;Canton;5902;AnnSullin;CHAR;5
+DEPCAN;Canton;5903;Anzin;CHAR;5
+DEPCAN;Canton;5904;Armentières;CHAR;5
+DEPCAN;Canton;5906;Aulnoy-lez-Valenciennes;CHAR;5
+DEPCAN;Canton;5905;Aulnoye-Aymeries;CHAR;5
+DEPCAN;Canton;5907;Avesnes-sur-Helpe;CHAR;5
+DEPCAN;Canton;5908;Bailleul;CHAR;5
+DEPCAN;Canton;5909;Cambrai;CHAR;5
+DEPCAN;Canton;5910;Le Cateau-Cambrésis;CHAR;5
+DEPCAN;Canton;5911;Caudry;CHAR;5
+DEPCAN;Canton;5912;Coudekerque-Branche;CHAR;5
+DEPCAN;Canton;5913;Croix;CHAR;5
+DEPCAN;Canton;5914;Denain;CHAR;5
+DEPCAN;Canton;5915;Douai;CHAR;5
+DEPCAN;Canton;5916;Dunkerque-1;CHAR;5
+DEPCAN;Canton;5917;Dunkerque-2;CHAR;5
+DEPCAN;Canton;5918;Faches-Thumesnil;CHAR;5
+DEPCAN;Canton;5919;Fourmies;CHAR;5
+DEPCAN;Canton;5920;Grande-Synthe;CHAR;5
+DEPCAN;Canton;5921;Hazebrouck;CHAR;5
+DEPCAN;Canton;5922;Lambersart;CHAR;5
+DEPCAN;Canton;5923;Lille-1;CHAR;5
+DEPCAN;Canton;5924;Lille-2;CHAR;5
+DEPCAN;Canton;5925;Lille-3;CHAR;5
+DEPCAN;Canton;5926;Lille-4;CHAR;5
+DEPCAN;Canton;5927;Lille-5;CHAR;5
+DEPCAN;Canton;5928;Lille-6;CHAR;5
+DEPCAN;Canton;5929;Marly;CHAR;5
+DEPCAN;Canton;5930;Maubeuge;CHAR;5
+DEPCAN;Canton;5931;Orchies;CHAR;5
+DEPCAN;Canton;5932;Roubaix-1;CHAR;5
+DEPCAN;Canton;5933;Roubaix-2;CHAR;5
+DEPCAN;Canton;5934;Saint-Amand-les-Eaux;CHAR;5
+DEPCAN;Canton;5935;Sin-le-Noble;CHAR;5
+DEPCAN;Canton;5936;Templeuve;CHAR;5
+DEPCAN;Canton;5937;Tourcoing-1;CHAR;5
+DEPCAN;Canton;5938;Tourcoing-2;CHAR;5
+DEPCAN;Canton;5939;Valenciennes;CHAR;5
+DEPCAN;Canton;5940;Villeneuve-d'Ascq;CHAR;5
+DEPCAN;Canton;5941;Wormhout;CHAR;5
+DEPCAN;Canton;6001;Beauvais-1;CHAR;5
+DEPCAN;Canton;6002;Beauvais-2;CHAR;5
+DEPCAN;Canton;6003;Chantilly;CHAR;5
+DEPCAN;Canton;6004;Chaumont-en-Vexin;CHAR;5
+DEPCAN;Canton;6005;Clermont;CHAR;5
+DEPCAN;Canton;6006;Compiègne-1;CHAR;5
+DEPCAN;Canton;6007;Compiègne-2;CHAR;5
+DEPCAN;Canton;6008;Creil;CHAR;5
+DEPCAN;Canton;6009;Crépy-en-Valois;CHAR;5
+DEPCAN;Canton;6010;Estrées-Saint-Denis;CHAR;5
+DEPCAN;Canton;6011;Grandvilliers;CHAR;5
+DEPCAN;Canton;6012;Méru;CHAR;5
+DEPCAN;Canton;6013;Montataire;CHAR;5
+DEPCAN;Canton;6014;Mouy;CHAR;5
+DEPCAN;Canton;6015;Nanteuil-le-Haudouin;CHAR;5
+DEPCAN;Canton;6016;Nogent-sur-Oise;CHAR;5
+DEPCAN;Canton;6017;Noyon;CHAR;5
+DEPCAN;Canton;6018;Pont-Sainte-Maxence;CHAR;5
+DEPCAN;Canton;6019;Saint-Just-en-Chaussée;CHAR;5
+DEPCAN;Canton;6020;Senlis;CHAR;5
+DEPCAN;Canton;6021;Thourotte;CHAR;5
+DEPCAN;Canton;6101;L' Aigle;CHAR;5
+DEPCAN;Canton;6102;Alençon-1;CHAR;5
+DEPCAN;Canton;6103;Alençon-2;CHAR;5
+DEPCAN;Canton;6104;Argentan-1;CHAR;5
+DEPCAN;Canton;6105;Argentan-2;CHAR;5
+DEPCAN;Canton;6106;Athis-de-l'Orne;CHAR;5
+DEPCAN;Canton;6107;Bagnoles-de-l'Orne;CHAR;5
+DEPCAN;Canton;6108;Bretoncelles;CHAR;5
+DEPCAN;Canton;6109;Ceton;CHAR;5
+DEPCAN;Canton;6110;Damigny;CHAR;5
+DEPCAN;Canton;6111;Domfront;CHAR;5
+DEPCAN;Canton;6112;La Ferté-Macé;CHAR;5
+DEPCAN;Canton;6113;Flers-1;CHAR;5
+DEPCAN;Canton;6114;Flers-2;CHAR;5
+DEPCAN;Canton;6115;Magny-le-Désert;CHAR;5
+DEPCAN;Canton;6116;Mortagne-au-Perche;CHAR;5
+DEPCAN;Canton;6117;Radon;CHAR;5
+DEPCAN;Canton;6118;Rai;CHAR;5
+DEPCAN;Canton;6119;Sées;CHAR;5
+DEPCAN;Canton;6120;Tourouvre;CHAR;5
+DEPCAN;Canton;6121;Vimoutiers;CHAR;5
+DEPCAN;Canton;6201;Aire-sur-la-Lys;CHAR;5
+DEPCAN;Canton;6202;Arras-1;CHAR;5
+DEPCAN;Canton;6203;Arras-2;CHAR;5
+DEPCAN;Canton;6204;Arras-3;CHAR;5
+DEPCAN;Canton;6205;Auchel;CHAR;5
+DEPCAN;Canton;6206;Auxi-le-Château;CHAR;5
+DEPCAN;Canton;6207;Avesnes-le-Comte;CHAR;5
+DEPCAN;Canton;6208;Avion;CHAR;5
+DEPCAN;Canton;6209;Bapaume;CHAR;5
+DEPCAN;Canton;6210;Berck;CHAR;5
+DEPCAN;Canton;6211;Béthune;CHAR;5
+DEPCAN;Canton;6212;Beuvry;CHAR;5
+DEPCAN;Canton;6213;Boulogne-sur-Mer-1;CHAR;5
+DEPCAN;Canton;6214;Boulogne-sur-Mer-2;CHAR;5
+DEPCAN;Canton;6215;Brebières;CHAR;5
+DEPCAN;Canton;6216;Bruay-la-Buissière;CHAR;5
+DEPCAN;Canton;6217;Bully-les-Mines;CHAR;5
+DEPCAN;Canton;6218;Calais-1;CHAR;5
+DEPCAN;Canton;6219;Calais-2;CHAR;5
+DEPCAN;Canton;6220;Calais-3;CHAR;5
+DEPCAN;Canton;6221;Carvin;CHAR;5
+DEPCAN;Canton;6222;Desvres;CHAR;5
+DEPCAN;Canton;6223;Douvrin;CHAR;5
+DEPCAN;Canton;6224;Étaples;CHAR;5
+DEPCAN;Canton;6225;Fruges;CHAR;5
+DEPCAN;Canton;6226;Harnes;CHAR;5
+DEPCAN;Canton;6227;Hénin-Beaumont-1;CHAR;5
+DEPCAN;Canton;6228;Hénin-Beaumont-2;CHAR;5
+DEPCAN;Canton;6229;Lens;CHAR;5
+DEPCAN;Canton;6230;Liévin;CHAR;5
+DEPCAN;Canton;6231;Lillers;CHAR;5
+DEPCAN;Canton;6232;Longuenesse;CHAR;5
+DEPCAN;Canton;6233;Lumbres;CHAR;5
+DEPCAN;Canton;6234;Marck;CHAR;5
+DEPCAN;Canton;6235;NSux-les-Mines;CHAR;5
+DEPCAN;Canton;6236;Outreau;CHAR;5
+DEPCAN;Canton;6237;Saint-Omer;CHAR;5
+DEPCAN;Canton;6238;Saint-Pol-sur-Ternoise;CHAR;5
+DEPCAN;Canton;6239;Wingles;CHAR;5
+DEPCAN;Canton;6301;Aigueperse;CHAR;5
+DEPCAN;Canton;6302;Ambert;CHAR;5
+DEPCAN;Canton;6303;Aubière;CHAR;5
+DEPCAN;Canton;6304;Beaumont;CHAR;5
+DEPCAN;Canton;6305;Billom;CHAR;5
+DEPCAN;Canton;6306;Brassac-les-Mines;CHAR;5
+DEPCAN;Canton;6307;Cébazat;CHAR;5
+DEPCAN;Canton;6308;Chamalières;CHAR;5
+DEPCAN;Canton;6309;Châtel-Guyon;CHAR;5
+DEPCAN;Canton;6310;Clermont-Ferrand-1;CHAR;5
+DEPCAN;Canton;6311;Clermont-Ferrand-2;CHAR;5
+DEPCAN;Canton;6312;Clermont-Ferrand-3;CHAR;5
+DEPCAN;Canton;6313;Clermont-Ferrand-4;CHAR;5
+DEPCAN;Canton;6314;Clermont-Ferrand-5;CHAR;5
+DEPCAN;Canton;6315;Clermont-Ferrand-6;CHAR;5
+DEPCAN;Canton;6316;Cournon-d'Auvergne;CHAR;5
+DEPCAN;Canton;6317;Gerzat;CHAR;5
+DEPCAN;Canton;6318;Issoire;CHAR;5
+DEPCAN;Canton;6319;Lezoux;CHAR;5
+DEPCAN;Canton;6320;Maringues;CHAR;5
+DEPCAN;Canton;6321;Les Martres-de-Veyre;CHAR;5
+DEPCAN;Canton;6322;Les Monts du Livradois;CHAR;5
+DEPCAN;Canton;6323;Orcines;CHAR;5
+DEPCAN;Canton;6324;Pont-du-Château;CHAR;5
+DEPCAN;Canton;6325;Riom;CHAR;5
+DEPCAN;Canton;6326;Saint-Éloy-les-Mines;CHAR;5
+DEPCAN;Canton;6327;Saint-Georges-de-Mons;CHAR;5
+DEPCAN;Canton;6328;Saint-Ours;CHAR;5
+DEPCAN;Canton;6329;Le Sancy;CHAR;5
+DEPCAN;Canton;6330;Thiers;CHAR;5
+DEPCAN;Canton;6331;Vic-le-Comte;CHAR;5
+DEPCAN;Canton;6401;Anglet;CHAR;5
+DEPCAN;Canton;6402;Artix et Pays de Soubestre;CHAR;5
+DEPCAN;Canton;6403;Baïgura et Mondarrain;CHAR;5
+DEPCAN;Canton;6404;Bayonne-1;CHAR;5
+DEPCAN;Canton;6405;Bayonne-2;CHAR;5
+DEPCAN;Canton;6406;Bayonne-3;CHAR;5
+DEPCAN;Canton;6407;Biarritz;CHAR;5
+DEPCAN;Canton;6408;Billère et Coteaux de Jurançon;CHAR;5
+DEPCAN;Canton;6409;Le CSur de Béarn;CHAR;5
+DEPCAN;Canton;6410;Hendaye-Côte Basque-Sud;CHAR;5
+DEPCAN;Canton;6411;Lescar, Gave et Terres du Pont-Long;CHAR;5
+DEPCAN;Canton;6412;Montagne Basque;CHAR;5
+DEPCAN;Canton;6413;Nive-Adour;CHAR;5
+DEPCAN;Canton;6414;Oloron-Sainte-Marie-1;CHAR;5
+DEPCAN;Canton;6415;Oloron-Sainte-Marie-2;CHAR;5
+DEPCAN;Canton;6416;Orthez et Terres des Gaves et du Sel;CHAR;5
+DEPCAN;Canton;6417;Ouzom, Gave et Rives du Neez;CHAR;5
+DEPCAN;Canton;6418;Pau-1;CHAR;5
+DEPCAN;Canton;6419;Pau-2;CHAR;5
+DEPCAN;Canton;6420;Pau-3;CHAR;5
+DEPCAN;Canton;6421;Pau-4;CHAR;5
+DEPCAN;Canton;6422;Pays de Bidache, Amikuze et Ostibarre;CHAR;5
+DEPCAN;Canton;6423;Pays de Morlaàs et du Montanérès;CHAR;5
+DEPCAN;Canton;6424;Saint-Jean-de-Luz;CHAR;5
+DEPCAN;Canton;6425;Terres des Luys et Coteaux du Vic-Bilh;CHAR;5
+DEPCAN;Canton;6426;Ustaritz-Vallées de Nive et Nivelle;CHAR;5
+DEPCAN;Canton;6427;Vallées de l'Ousse et du Lagoin;CHAR;5
+DEPCAN;Canton;6501;Aureilhan;CHAR;5
+DEPCAN;Canton;6502;Bordères-sur-l'Echez;CHAR;5
+DEPCAN;Canton;6503;Les Coteaux;CHAR;5
+DEPCAN;Canton;6504;La Haute-Bigorre;CHAR;5
+DEPCAN;Canton;6505;Lourdes-1;CHAR;5
+DEPCAN;Canton;6506;Lourdes-2;CHAR;5
+DEPCAN;Canton;6507;Moyen Adour;CHAR;5
+DEPCAN;Canton;6508;Neste, Aure et Louron;CHAR;5
+DEPCAN;Canton;6509;Ossun;CHAR;5
+DEPCAN;Canton;6510;Tarbes-1;CHAR;5
+DEPCAN;Canton;6511;Tarbes-2;CHAR;5
+DEPCAN;Canton;6512;Tarbes-3;CHAR;5
+DEPCAN;Canton;6513;Val d'Adour-Rustan-Madiranais;CHAR;5
+DEPCAN;Canton;6514;La Vallée de l'Arros et des Baïses;CHAR;5
+DEPCAN;Canton;6515;La Vallée de la Barousse;CHAR;5
+DEPCAN;Canton;6516;La Vallée des Gaves;CHAR;5
+DEPCAN;Canton;6517;Vic-en-Bigorre;CHAR;5
+DEPCAN;Canton;6601;Les Aspres;CHAR;5
+DEPCAN;Canton;6602;Le Canigou;CHAR;5
+DEPCAN;Canton;6603;La Côte Sableuse;CHAR;5
+DEPCAN;Canton;6604;La Côte Salanquaise;CHAR;5
+DEPCAN;Canton;6605;La Côte Vermeille;CHAR;5
+DEPCAN;Canton;6606;Perpignan-1;CHAR;5
+DEPCAN;Canton;6607;Perpignan-2;CHAR;5
+DEPCAN;Canton;6608;Perpignan-3;CHAR;5
+DEPCAN;Canton;6609;Perpignan-4;CHAR;5
+DEPCAN;Canton;6610;Perpignan-5;CHAR;5
+DEPCAN;Canton;6611;Perpignan-6;CHAR;5
+DEPCAN;Canton;6612;La Plaine d'Illibéris;CHAR;5
+DEPCAN;Canton;6613;Les Pyrénées catalanes;CHAR;5
+DEPCAN;Canton;6614;Le Ribéral;CHAR;5
+DEPCAN;Canton;6615;La Vallée de l'Agly;CHAR;5
+DEPCAN;Canton;6616;La Vallée de la Têt;CHAR;5
+DEPCAN;Canton;6617;Vallespir-Albères;CHAR;5
+DEPCAN;Canton;6701;Bischwiller;CHAR;5
+DEPCAN;Canton;6702;Bouxwiller;CHAR;5
+DEPCAN;Canton;6703;Brumath;CHAR;5
+DEPCAN;Canton;6704;Erstein;CHAR;5
+DEPCAN;Canton;6705;Haguenau;CHAR;5
+DEPCAN;Canton;6706;HSnheim;CHAR;5
+DEPCAN;Canton;6707;Illkirch-Graffenstaden;CHAR;5
+DEPCAN;Canton;6708;Ingwiller;CHAR;5
+DEPCAN;Canton;6709;Lingolsheim;CHAR;5
+DEPCAN;Canton;6710;Molsheim;CHAR;5
+DEPCAN;Canton;6711;Mutzig;CHAR;5
+DEPCAN;Canton;6712;Obernai;CHAR;5
+DEPCAN;Canton;6713;Reichshoffen;CHAR;5
+DEPCAN;Canton;6714;Saverne;CHAR;5
+DEPCAN;Canton;6715;Schiltigheim;CHAR;5
+DEPCAN;Canton;6716;Sélestat;CHAR;5
+DEPCAN;Canton;6717;Strasbourg-1;CHAR;5
+DEPCAN;Canton;6718;Strasbourg-2;CHAR;5
+DEPCAN;Canton;6719;Strasbourg-3;CHAR;5
+DEPCAN;Canton;6720;Strasbourg-4;CHAR;5
+DEPCAN;Canton;6721;Strasbourg-5;CHAR;5
+DEPCAN;Canton;6722;Strasbourg-6;CHAR;5
+DEPCAN;Canton;6723;Wissembourg;CHAR;5
+DEPCAN;Canton;6801;Altkirch;CHAR;5
+DEPCAN;Canton;6802;Brunstatt;CHAR;5
+DEPCAN;Canton;6803;Cernay;CHAR;5
+DEPCAN;Canton;6804;Colmar-1;CHAR;5
+DEPCAN;Canton;6805;Colmar-2;CHAR;5
+DEPCAN;Canton;6806;Ensisheim;CHAR;5
+DEPCAN;Canton;6807;Guebwiller;CHAR;5
+DEPCAN;Canton;6808;Kingersheim;CHAR;5
+DEPCAN;Canton;6809;Masevaux;CHAR;5
+DEPCAN;Canton;6810;Mulhouse-1;CHAR;5
+DEPCAN;Canton;6811;Mulhouse-2;CHAR;5
+DEPCAN;Canton;6812;Mulhouse-3;CHAR;5
+DEPCAN;Canton;6813;Rixheim;CHAR;5
+DEPCAN;Canton;6814;Saint-Louis;CHAR;5
+DEPCAN;Canton;6815;Sainte-Marie-aux-Mines;CHAR;5
+DEPCAN;Canton;6816;Wintzenheim;CHAR;5
+DEPCAN;Canton;6817;Wittenheim;CHAR;5
+DEPCAN;Canton;6901;Anse;CHAR;5
+DEPCAN;Canton;6902;L' Arbresle;CHAR;5
+DEPCAN;Canton;6903;Belleville;CHAR;5
+DEPCAN;Canton;6904;Le Bois-d'Oingt;CHAR;5
+DEPCAN;Canton;6905;Brignais;CHAR;5
+DEPCAN;Canton;6906;Genas;CHAR;5
+DEPCAN;Canton;6907;Gleizé;CHAR;5
+DEPCAN;Canton;6900;Métropole de Lyon (hors Canton);CHAR;5
+DEPCAN;Canton;6908;Mornant;CHAR;5
+DEPCAN;Canton;6909;Saint-Symphorien-d'Ozon;CHAR;5
+DEPCAN;Canton;6910;Tarare;CHAR;5
+DEPCAN;Canton;6911;Thizy-les-Bourgs;CHAR;5
+DEPCAN;Canton;6912;Vaugneray;CHAR;5
+DEPCAN;Canton;6913;Villefranche-sur-Saône;CHAR;5
+DEPCAN;Canton;7001;Dampierre-sur-Salon;CHAR;5
+DEPCAN;Canton;7002;Gray;CHAR;5
+DEPCAN;Canton;7003;Héricourt-1;CHAR;5
+DEPCAN;Canton;7004;Héricourt-2;CHAR;5
+DEPCAN;Canton;7005;Jussey;CHAR;5
+DEPCAN;Canton;7006;Lure-1;CHAR;5
+DEPCAN;Canton;7007;Lure-2;CHAR;5
+DEPCAN;Canton;7008;Luxeuil-les-Bains;CHAR;5
+DEPCAN;Canton;7009;Marnay;CHAR;5
+DEPCAN;Canton;7010;Mélisey;CHAR;5
+DEPCAN;Canton;7011;Port-sur-Saône;CHAR;5
+DEPCAN;Canton;7012;Rioz;CHAR;5
+DEPCAN;Canton;7013;Saint-Loup-sur-Semouse;CHAR;5
+DEPCAN;Canton;7014;Scey-sur-Saône-et-Saint-Albin;CHAR;5
+DEPCAN;Canton;7015;Vesoul-1;CHAR;5
+DEPCAN;Canton;7016;Vesoul-2;CHAR;5
+DEPCAN;Canton;7017;Villersexel;CHAR;5
+DEPCAN;Canton;7101;Autun-1;CHAR;5
+DEPCAN;Canton;7102;Autun-2;CHAR;5
+DEPCAN;Canton;7103;Blanzy;CHAR;5
+DEPCAN;Canton;7104;Chagny;CHAR;5
+DEPCAN;Canton;7105;Chalon-sur-Saône-1;CHAR;5
+DEPCAN;Canton;7106;Chalon-sur-Saône-2;CHAR;5
+DEPCAN;Canton;7107;Chalon-sur-Saône-3;CHAR;5
+DEPCAN;Canton;7108;La Chapelle-de-Guinchay;CHAR;5
+DEPCAN;Canton;7109;Charolles;CHAR;5
+DEPCAN;Canton;7110;Chauffailles;CHAR;5
+DEPCAN;Canton;7111;Cluny;CHAR;5
+DEPCAN;Canton;7112;Le Creusot-1;CHAR;5
+DEPCAN;Canton;7113;Le Creusot-2;CHAR;5
+DEPCAN;Canton;7114;Cuiseaux;CHAR;5
+DEPCAN;Canton;7115;Digoin;CHAR;5
+DEPCAN;Canton;7116;Gergy;CHAR;5
+DEPCAN;Canton;7117;Givry;CHAR;5
+DEPCAN;Canton;7118;Gueugnon;CHAR;5
+DEPCAN;Canton;7119;Hurigny;CHAR;5
+DEPCAN;Canton;7120;Louhans;CHAR;5
+DEPCAN;Canton;7121;Mâcon-1;CHAR;5
+DEPCAN;Canton;7122;Mâcon-2;CHAR;5
+DEPCAN;Canton;7123;Montceau-les-Mines;CHAR;5
+DEPCAN;Canton;7124;Ouroux-sur-Saône;CHAR;5
+DEPCAN;Canton;7125;Paray-le-Monial;CHAR;5
+DEPCAN;Canton;7126;Pierre-de-Bresse;CHAR;5
+DEPCAN;Canton;7127;Saint-Rémy;CHAR;5
+DEPCAN;Canton;7128;Saint-Vallier;CHAR;5
+DEPCAN;Canton;7129;Tournus;CHAR;5
+DEPCAN;Canton;7201;Bonnétable;CHAR;5
+DEPCAN;Canton;7202;Changé;CHAR;5
+DEPCAN;Canton;7203;Château-du-Loir;CHAR;5
+DEPCAN;Canton;7204;Écommoy;CHAR;5
+DEPCAN;Canton;7205;La Ferté-Bernard;CHAR;5
+DEPCAN;Canton;7206;La Flèche;CHAR;5
+DEPCAN;Canton;7207;Loué;CHAR;5
+DEPCAN;Canton;7208;Le Lude;CHAR;5
+DEPCAN;Canton;7209;Mamers;CHAR;5
+DEPCAN;Canton;7210;Le Mans-1;CHAR;5
+DEPCAN;Canton;7211;Le Mans-2;CHAR;5
+DEPCAN;Canton;7212;Le Mans-3;CHAR;5
+DEPCAN;Canton;7213;Le Mans-4;CHAR;5
+DEPCAN;Canton;7214;Le Mans-5;CHAR;5
+DEPCAN;Canton;7215;Le Mans-6;CHAR;5
+DEPCAN;Canton;7216;Le Mans-7;CHAR;5
+DEPCAN;Canton;7217;Sablé-sur-Sarthe;CHAR;5
+DEPCAN;Canton;7218;Saint-Calais;CHAR;5
+DEPCAN;Canton;7219;Savigné-l'Évêque;CHAR;5
+DEPCAN;Canton;7220;Sillé-le-Guillaume;CHAR;5
+DEPCAN;Canton;7221;La Suze-sur-Sarthe;CHAR;5
+DEPCAN;Canton;7301;Aix-les-Bains-1;CHAR;5
+DEPCAN;Canton;7302;Aix-les-Bains-2;CHAR;5
+DEPCAN;Canton;7303;Albertville-1;CHAR;5
+DEPCAN;Canton;7304;Albertville-2;CHAR;5
+DEPCAN;Canton;7305;Bourg-Saint-Maurice;CHAR;5
+DEPCAN;Canton;7306;Bugey savoyard;CHAR;5
+DEPCAN;Canton;7307;Chambéry-1;CHAR;5
+DEPCAN;Canton;7308;Chambéry-2;CHAR;5
+DEPCAN;Canton;7309;Chambéry-3;CHAR;5
+DEPCAN;Canton;7310;Modane;CHAR;5
+DEPCAN;Canton;7311;Montmélian;CHAR;5
+DEPCAN;Canton;7312;La Motte-Servolex;CHAR;5
+DEPCAN;Canton;7313;Moûtiers;CHAR;5
+DEPCAN;Canton;7314;Le Pont-de-Beauvoisin;CHAR;5
+DEPCAN;Canton;7315;La Ravoire;CHAR;5
+DEPCAN;Canton;7316;Saint-Alban-Leysse;CHAR;5
+DEPCAN;Canton;7317;Saint-Jean-de-Maurienne;CHAR;5
+DEPCAN;Canton;7318;Saint-Pierre-d'Albigny;CHAR;5
+DEPCAN;Canton;7319;Ugine;CHAR;5
+DEPCAN;Canton;7401;Annecy-1;CHAR;5
+DEPCAN;Canton;7402;Annecy-2;CHAR;5
+DEPCAN;Canton;7403;Annecy-le-Vieux;CHAR;5
+DEPCAN;Canton;7404;Annemasse;CHAR;5
+DEPCAN;Canton;7405;Bonneville;CHAR;5
+DEPCAN;Canton;7406;Cluses;CHAR;5
+DEPCAN;Canton;7407;Évian-les-Bains;CHAR;5
+DEPCAN;Canton;7408;Faverges;CHAR;5
+DEPCAN;Canton;7409;Gaillard;CHAR;5
+DEPCAN;Canton;7410;Le Mont-Blanc;CHAR;5
+DEPCAN;Canton;7411;La Roche-sur-Foron;CHAR;5
+DEPCAN;Canton;7412;Rumilly;CHAR;5
+DEPCAN;Canton;7413;Saint-Julien-en-Genevois;CHAR;5
+DEPCAN;Canton;7414;Sallanches;CHAR;5
+DEPCAN;Canton;7415;Sciez;CHAR;5
+DEPCAN;Canton;7416;Seynod;CHAR;5
+DEPCAN;Canton;7417;Thonon-les-Bains;CHAR;5
+DEPCAN;Canton;7601;Barentin;CHAR;5
+DEPCAN;Canton;7602;Bois-Guillaume;CHAR;5
+DEPCAN;Canton;7603;Bolbec;CHAR;5
+DEPCAN;Canton;7604;Canteleu;CHAR;5
+DEPCAN;Canton;7605;Caudebec-lès-Elbeuf;CHAR;5
+DEPCAN;Canton;7606;Darnétal;CHAR;5
+DEPCAN;Canton;7607;Dieppe-1;CHAR;5
+DEPCAN;Canton;7608;Dieppe-2;CHAR;5
+DEPCAN;Canton;7609;Elbeuf;CHAR;5
+DEPCAN;Canton;7610;Eu;CHAR;5
+DEPCAN;Canton;7611;Fécamp;CHAR;5
+DEPCAN;Canton;7612;Gournay-en-Bray;CHAR;5
+DEPCAN;Canton;7613;Le Grand-Quevilly;CHAR;5
+DEPCAN;Canton;7614;Le Havre-1;CHAR;5
+DEPCAN;Canton;7615;Le Havre-2;CHAR;5
+DEPCAN;Canton;7616;Le Havre-3;CHAR;5
+DEPCAN;Canton;7617;Le Havre-4;CHAR;5
+DEPCAN;Canton;7618;Le Havre-5;CHAR;5
+DEPCAN;Canton;7619;Le Havre-6;CHAR;5
+DEPCAN;Canton;7620;Luneray;CHAR;5
+DEPCAN;Canton;7621;Le Mesnil-Esnard;CHAR;5
+DEPCAN;Canton;7622;Mont-Saint-Aignan;CHAR;5
+DEPCAN;Canton;7623;Neufchâtel-en-Bray;CHAR;5
+DEPCAN;Canton;7624;Notre-Dame-de-Bondeville;CHAR;5
+DEPCAN;Canton;7625;Notre-Dame-de-Gravenchon;CHAR;5
+DEPCAN;Canton;7626;Octeville-sur-Mer;CHAR;5
+DEPCAN;Canton;7627;Le Petit-Quevilly;CHAR;5
+DEPCAN;Canton;7628;Rouen-1;CHAR;5
+DEPCAN;Canton;7629;Rouen-2;CHAR;5
+DEPCAN;Canton;7630;Rouen-3;CHAR;5
+DEPCAN;Canton;7631;Saint-Étienne-du-Rouvray;CHAR;5
+DEPCAN;Canton;7632;Saint-Romain-de-Colbosc;CHAR;5
+DEPCAN;Canton;7633;Saint-Valery-en-Caux;CHAR;5
+DEPCAN;Canton;7634;Sotteville-lès-Rouen;CHAR;5
+DEPCAN;Canton;7635;Yvetot;CHAR;5
+DEPCAN;Canton;7701;Champs-sur-Marne;CHAR;5
+DEPCAN;Canton;7702;Chelles;CHAR;5
+DEPCAN;Canton;7703;Claye-Souilly;CHAR;5
+DEPCAN;Canton;7704;Combs-la-Ville;CHAR;5
+DEPCAN;Canton;7705;Coulommiers;CHAR;5
+DEPCAN;Canton;7706;La Ferté-sous-Jouarre;CHAR;5
+DEPCAN;Canton;7707;Fontainebleau;CHAR;5
+DEPCAN;Canton;7708;Fontenay-Trésigny;CHAR;5
+DEPCAN;Canton;7709;Lagny-sur-Marne;CHAR;5
+DEPCAN;Canton;7710;Meaux;CHAR;5
+DEPCAN;Canton;7711;Melun;CHAR;5
+DEPCAN;Canton;7712;Mitry-Mory;CHAR;5
+DEPCAN;Canton;7713;Montereau-Fault-Yonne;CHAR;5
+DEPCAN;Canton;7714;Nangis;CHAR;5
+DEPCAN;Canton;7715;Nemours;CHAR;5
+DEPCAN;Canton;7716;Ozoir-la-Ferrière;CHAR;5
+DEPCAN;Canton;7717;Pontault-Combault;CHAR;5
+DEPCAN;Canton;7718;Provins;CHAR;5
+DEPCAN;Canton;7719;Saint-Fargeau-Ponthierry;CHAR;5
+DEPCAN;Canton;7720;Savigny-le-Temple;CHAR;5
+DEPCAN;Canton;7721;Serris;CHAR;5
+DEPCAN;Canton;7722;Torcy;CHAR;5
+DEPCAN;Canton;7723;Villeparisis;CHAR;5
+DEPCAN;Canton;7801;Aubergenville;CHAR;5
+DEPCAN;Canton;7802;Bonnières-sur-Seine;CHAR;5
+DEPCAN;Canton;7803;Chatou;CHAR;5
+DEPCAN;Canton;7804;Le Chesnay;CHAR;5
+DEPCAN;Canton;7805;Conflans-Sainte-Honorine;CHAR;5
+DEPCAN;Canton;7806;Houilles;CHAR;5
+DEPCAN;Canton;7807;Limay;CHAR;5
+DEPCAN;Canton;7808;Mantes-la-Jolie;CHAR;5
+DEPCAN;Canton;7809;Maurepas;CHAR;5
+DEPCAN;Canton;7810;Montigny-le-Bretonneux;CHAR;5
+DEPCAN;Canton;7811;Les Mureaux;CHAR;5
+DEPCAN;Canton;7812;Plaisir;CHAR;5
+DEPCAN;Canton;7813;Poissy;CHAR;5
+DEPCAN;Canton;7814;Rambouillet;CHAR;5
+DEPCAN;Canton;7815;Saint-Cyr-l'École;CHAR;5
+DEPCAN;Canton;7816;Saint-Germain-en-Laye;CHAR;5
+DEPCAN;Canton;7817;Sartrouville;CHAR;5
+DEPCAN;Canton;7818;Trappes;CHAR;5
+DEPCAN;Canton;7819;Verneuil-sur-Seine;CHAR;5
+DEPCAN;Canton;7820;Versailles-1;CHAR;5
+DEPCAN;Canton;7821;Versailles-2;CHAR;5
+DEPCAN;Canton;7901;Autize-Egray;CHAR;5
+DEPCAN;Canton;7902;Bressuire;CHAR;5
+DEPCAN;Canton;7903;Celles-sur-Belle;CHAR;5
+DEPCAN;Canton;7904;Cerizay;CHAR;5
+DEPCAN;Canton;7905;Frontenay-Rohan-Rohan;CHAR;5
+DEPCAN;Canton;7906;La Gâtine;CHAR;5
+DEPCAN;Canton;7907;Mauléon;CHAR;5
+DEPCAN;Canton;7908;Melle;CHAR;5
+DEPCAN;Canton;7909;Mignon-et-Boutonne;CHAR;5
+DEPCAN;Canton;7910;Niort-1;CHAR;5
+DEPCAN;Canton;7911;Niort-2;CHAR;5
+DEPCAN;Canton;7912;Niort-3;CHAR;5
+DEPCAN;Canton;7913;Parthenay;CHAR;5
+DEPCAN;Canton;7914;La Plaine Niortaise;CHAR;5
+DEPCAN;Canton;7915;Saint-Maixent-l'École;CHAR;5
+DEPCAN;Canton;7916;Thouars;CHAR;5
+DEPCAN;Canton;7917;Le Val de Thouet;CHAR;5
+DEPCAN;Canton;8001;Abbeville-1;CHAR;5
+DEPCAN;Canton;8002;Abbeville-2;CHAR;5
+DEPCAN;Canton;8003;Ailly-sur-Noye;CHAR;5
+DEPCAN;Canton;8004;Ailly-sur-Somme;CHAR;5
+DEPCAN;Canton;8005;Albert;CHAR;5
+DEPCAN;Canton;8006;Amiens-1;CHAR;5
+DEPCAN;Canton;8007;Amiens-2;CHAR;5
+DEPCAN;Canton;8008;Amiens-3;CHAR;5
+DEPCAN;Canton;8009;Amiens-4;CHAR;5
+DEPCAN;Canton;8010;Amiens-5;CHAR;5
+DEPCAN;Canton;8011;Amiens-6;CHAR;5
+DEPCAN;Canton;8012;Amiens-7;CHAR;5
+DEPCAN;Canton;8013;Corbie;CHAR;5
+DEPCAN;Canton;8014;Doullens;CHAR;5
+DEPCAN;Canton;8015;Flixecourt;CHAR;5
+DEPCAN;Canton;8016;Friville-Escarbotin;CHAR;5
+DEPCAN;Canton;8017;Gamaches;CHAR;5
+DEPCAN;Canton;8018;Ham;CHAR;5
+DEPCAN;Canton;8019;Moreuil;CHAR;5
+DEPCAN;Canton;8020;Péronne;CHAR;5
+DEPCAN;Canton;8021;Poix-de-Picardie;CHAR;5
+DEPCAN;Canton;8022;Roye;CHAR;5
+DEPCAN;Canton;8023;Rue;CHAR;5
+DEPCAN;Canton;8101;Albi-1;CHAR;5
+DEPCAN;Canton;8102;Albi-2;CHAR;5
+DEPCAN;Canton;8103;Albi-3;CHAR;5
+DEPCAN;Canton;8104;Albi-4;CHAR;5
+DEPCAN;Canton;8105;Carmaux-1 Le Ségala;CHAR;5
+DEPCAN;Canton;8106;Carmaux-2 Vallée du Cérou;CHAR;5
+DEPCAN;Canton;8107;Castres-1;CHAR;5
+DEPCAN;Canton;8108;Castres-2;CHAR;5
+DEPCAN;Canton;8109;Castres-3;CHAR;5
+DEPCAN;Canton;8110;Les Deux Rives;CHAR;5
+DEPCAN;Canton;8111;Gaillac;CHAR;5
+DEPCAN;Canton;8112;Graulhet;CHAR;5
+DEPCAN;Canton;8113;Le Haut Dadou;CHAR;5
+DEPCAN;Canton;8114;Les Hautes Terres d'Oc;CHAR;5
+DEPCAN;Canton;8115;Lavaur Cocagne;CHAR;5
+DEPCAN;Canton;8116;Mazamet-1;CHAR;5
+DEPCAN;Canton;8117;Mazamet-2 Vallée du Thoré;CHAR;5
+DEPCAN;Canton;8118;La Montagne noire;CHAR;5
+DEPCAN;Canton;8119;Le Pastel;CHAR;5
+DEPCAN;Canton;8120;Plaine de l'Agoût;CHAR;5
+DEPCAN;Canton;8121;Les Portes du Tarn;CHAR;5
+DEPCAN;Canton;8122;Saint-Juéry;CHAR;5
+DEPCAN;Canton;8123;Vignobles et Bastides;CHAR;5
+DEPCAN;Canton;8201;Aveyron-Lère;CHAR;5
+DEPCAN;Canton;8202;Beaumont-de-Lomagne;CHAR;5
+DEPCAN;Canton;8203;Castelsarrasin;CHAR;5
+DEPCAN;Canton;8204;Garonne-Lomagne-Brulhois;CHAR;5
+DEPCAN;Canton;8205;Moissac;CHAR;5
+DEPCAN;Canton;8206;Montauban-1;CHAR;5
+DEPCAN;Canton;8207;Montauban-2;CHAR;5
+DEPCAN;Canton;8208;Montauban-3;CHAR;5
+DEPCAN;Canton;8209;Montech;CHAR;5
+DEPCAN;Canton;8210;Pays de Serres Sud-Quercy;CHAR;5
+DEPCAN;Canton;8211;Quercy-Aveyron;CHAR;5
+DEPCAN;Canton;8212;Quercy-Rouergue;CHAR;5
+DEPCAN;Canton;8213;Tarn-Tescou-Quercy vert;CHAR;5
+DEPCAN;Canton;8214;Valence;CHAR;5
+DEPCAN;Canton;8215;Verdun-sur-Garonne;CHAR;5
+DEPCAN;Canton;8301;Brignoles;CHAR;5
+DEPCAN;Canton;8302;La Crau;CHAR;5
+DEPCAN;Canton;8303;Draguignan;CHAR;5
+DEPCAN;Canton;8304;Flayosc;CHAR;5
+DEPCAN;Canton;8305;Fréjus;CHAR;5
+DEPCAN;Canton;8306;La Garde;CHAR;5
+DEPCAN;Canton;8307;Garéoult;CHAR;5
+DEPCAN;Canton;8308;Hyères;CHAR;5
+DEPCAN;Canton;8309;Le Luc;CHAR;5
+DEPCAN;Canton;8310;Ollioules;CHAR;5
+DEPCAN;Canton;8311;Roquebrune-sur-Argens;CHAR;5
+DEPCAN;Canton;8312;Saint-Cyr-sur-Mer;CHAR;5
+DEPCAN;Canton;8313;Saint-Maximin-la-Sainte-Baume;CHAR;5
+DEPCAN;Canton;8314;Saint-Raphaël;CHAR;5
+DEPCAN;Canton;8315;Sainte-Maxime;CHAR;5
+DEPCAN;Canton;8316;La Seyne-sur-Mer-1;CHAR;5
+DEPCAN;Canton;8317;La Seyne-sur-Mer-2;CHAR;5
+DEPCAN;Canton;8318;Solliès-Pont;CHAR;5
+DEPCAN;Canton;8319;Toulon-1;CHAR;5
+DEPCAN;Canton;8320;Toulon-2;CHAR;5
+DEPCAN;Canton;8321;Toulon-3;CHAR;5
+DEPCAN;Canton;8322;Toulon-4;CHAR;5
+DEPCAN;Canton;8323;Vidauban;CHAR;5
+DEPCAN;Canton;8401;Apt;CHAR;5
+DEPCAN;Canton;8402;Avignon-1;CHAR;5
+DEPCAN;Canton;8403;Avignon-2;CHAR;5
+DEPCAN;Canton;8404;Avignon-3;CHAR;5
+DEPCAN;Canton;8405;Bollène;CHAR;5
+DEPCAN;Canton;8406;Carpentras;CHAR;5
+DEPCAN;Canton;8407;Cavaillon;CHAR;5
+DEPCAN;Canton;8408;Cheval-Blanc;CHAR;5
+DEPCAN;Canton;8409;L' Isle-sur-la-Sorgue;CHAR;5
+DEPCAN;Canton;8410;Monteux;CHAR;5
+DEPCAN;Canton;8411;Orange;CHAR;5
+DEPCAN;Canton;8412;Pernes-les-Fontaines;CHAR;5
+DEPCAN;Canton;8413;Pertuis;CHAR;5
+DEPCAN;Canton;8414;Le Pontet;CHAR;5
+DEPCAN;Canton;8415;Sorgues;CHAR;5
+DEPCAN;Canton;8416;Vaison-la-Romaine;CHAR;5
+DEPCAN;Canton;8417;Valréas;CHAR;5
+DEPCAN;Canton;8501;Aizenay;CHAR;5
+DEPCAN;Canton;8502;Challans;CHAR;5
+DEPCAN;Canton;8503;Chantonnay;CHAR;5
+DEPCAN;Canton;8504;La Châtaigneraie;CHAR;5
+DEPCAN;Canton;8505;Fontenay-le-Comte;CHAR;5
+DEPCAN;Canton;8506;Les Herbiers;CHAR;5
+DEPCAN;Canton;8507;L' île-d'Yeu;CHAR;5
+DEPCAN;Canton;8508;Luçon;CHAR;5
+DEPCAN;Canton;8509;Mareuil-sur-Lay-Dissais;CHAR;5
+DEPCAN;Canton;8510;Montaigu;CHAR;5
+DEPCAN;Canton;8511;Mortagne-sur-Sèvre;CHAR;5
+DEPCAN;Canton;8512;La Roche-sur-Yon-1;CHAR;5
+DEPCAN;Canton;8513;La Roche-sur-Yon-2;CHAR;5
+DEPCAN;Canton;8514;Les Sables-d'Olonne;CHAR;5
+DEPCAN;Canton;8515;Saint-Hilaire-de-Riez;CHAR;5
+DEPCAN;Canton;8516;Saint-Jean-de-Monts;CHAR;5
+DEPCAN;Canton;8517;Talmont-Saint-Hilaire;CHAR;5
+DEPCAN;Canton;8601;Chasseneuil-du-Poitou;CHAR;5
+DEPCAN;Canton;8602;Châtellerault-1;CHAR;5
+DEPCAN;Canton;8603;Châtellerault-2;CHAR;5
+DEPCAN;Canton;8604;Châtellerault-3;CHAR;5
+DEPCAN;Canton;8605;Chauvigny;CHAR;5
+DEPCAN;Canton;8606;Civray;CHAR;5
+DEPCAN;Canton;8607;Jaunay-Clan;CHAR;5
+DEPCAN;Canton;8608;Loudun;CHAR;5
+DEPCAN;Canton;8609;Lusignan;CHAR;5
+DEPCAN;Canton;8610;Lussac-les-Châteaux;CHAR;5
+DEPCAN;Canton;8611;Migné-Auxances;CHAR;5
+DEPCAN;Canton;8612;Montmorillon;CHAR;5
+DEPCAN;Canton;8613;Poitiers-1;CHAR;5
+DEPCAN;Canton;8614;Poitiers-2;CHAR;5
+DEPCAN;Canton;8615;Poitiers-3;CHAR;5
+DEPCAN;Canton;8616;Poitiers-4;CHAR;5
+DEPCAN;Canton;8617;Poitiers-5;CHAR;5
+DEPCAN;Canton;8618;Vivonne;CHAR;5
+DEPCAN;Canton;8619;Vouneuil-sous-Biard;CHAR;5
+DEPCAN;Canton;8701;Aixe-sur-Vienne;CHAR;5
+DEPCAN;Canton;8702;Ambazac;CHAR;5
+DEPCAN;Canton;8703;Bellac;CHAR;5
+DEPCAN;Canton;8704;Châteauponsac;CHAR;5
+DEPCAN;Canton;8705;Condat-sur-Vienne;CHAR;5
+DEPCAN;Canton;8706;Couzeix;CHAR;5
+DEPCAN;Canton;8707;Eymoutiers;CHAR;5
+DEPCAN;Canton;8708;Limoges-1;CHAR;5
+DEPCAN;Canton;8709;Limoges-2;CHAR;5
+DEPCAN;Canton;8710;Limoges-3;CHAR;5
+DEPCAN;Canton;8711;Limoges-4;CHAR;5
+DEPCAN;Canton;8712;Limoges-5;CHAR;5
+DEPCAN;Canton;8713;Limoges-6;CHAR;5
+DEPCAN;Canton;8714;Limoges-7;CHAR;5
+DEPCAN;Canton;8715;Limoges-8;CHAR;5
+DEPCAN;Canton;8716;Limoges-9;CHAR;5
+DEPCAN;Canton;8717;Panazol;CHAR;5
+DEPCAN;Canton;8718;Rochechouart;CHAR;5
+DEPCAN;Canton;8719;Saint-Junien;CHAR;5
+DEPCAN;Canton;8720;Saint-Léonard-de-Noblat;CHAR;5
+DEPCAN;Canton;8721;Saint-Yrieix-la-Perche;CHAR;5
+DEPCAN;Canton;8801;La Bresse;CHAR;5
+DEPCAN;Canton;8802;Bruyères;CHAR;5
+DEPCAN;Canton;8803;Charmes;CHAR;5
+DEPCAN;Canton;8804;Darney;CHAR;5
+DEPCAN;Canton;8805;Épinal-1;CHAR;5
+DEPCAN;Canton;8806;Épinal-2;CHAR;5
+DEPCAN;Canton;8807;Gérardmer;CHAR;5
+DEPCAN;Canton;8808;Golbey;CHAR;5
+DEPCAN;Canton;8809;Mirecourt;CHAR;5
+DEPCAN;Canton;8810;Neufchâteau;CHAR;5
+DEPCAN;Canton;8811;Raon-l'Etape;CHAR;5
+DEPCAN;Canton;8812;Remiremont;CHAR;5
+DEPCAN;Canton;8813;Saint-Dié-des-Vosges-1;CHAR;5
+DEPCAN;Canton;8814;Saint-Dié-des-Vosges-2;CHAR;5
+DEPCAN;Canton;8815;Le Thillot;CHAR;5
+DEPCAN;Canton;8816;Le Val-d'Ajol;CHAR;5
+DEPCAN;Canton;8817;Vittel;CHAR;5
+DEPCAN;Canton;8901;Auxerre-1;CHAR;5
+DEPCAN;Canton;8902;Auxerre-2;CHAR;5
+DEPCAN;Canton;8903;Auxerre-3;CHAR;5
+DEPCAN;Canton;8904;Auxerre-4;CHAR;5
+DEPCAN;Canton;8905;Avallon;CHAR;5
+DEPCAN;Canton;8906;Brienon-sur-Armançon;CHAR;5
+DEPCAN;Canton;8907;Chablis;CHAR;5
+DEPCAN;Canton;8908;Charny;CHAR;5
+DEPCAN;Canton;8909;CSur de Puisaye;CHAR;5
+DEPCAN;Canton;8910;Gâtinais en Bourgogne;CHAR;5
+DEPCAN;Canton;8911;Joigny;CHAR;5
+DEPCAN;Canton;8912;Joux-la-Ville;CHAR;5
+DEPCAN;Canton;8913;Migennes;CHAR;5
+DEPCAN;Canton;8914;Pont-sur-Yonne;CHAR;5
+DEPCAN;Canton;8915;Saint-Florentin;CHAR;5
+DEPCAN;Canton;8916;Sens-1;CHAR;5
+DEPCAN;Canton;8917;Sens-2;CHAR;5
+DEPCAN;Canton;8918;Thorigny-sur-Oreuse;CHAR;5
+DEPCAN;Canton;8919;Tonnerrois;CHAR;5
+DEPCAN;Canton;8920;Villeneuve-sur-Yonne;CHAR;5
+DEPCAN;Canton;8921;Vincelles;CHAR;5
+DEPCAN;Canton;9001;Bavilliers;CHAR;5
+DEPCAN;Canton;9002;Belfort-1;CHAR;5
+DEPCAN;Canton;9003;Belfort-2;CHAR;5
+DEPCAN;Canton;9004;Belfort-3;CHAR;5
+DEPCAN;Canton;9005;Châtenois-les-Forges;CHAR;5
+DEPCAN;Canton;9006;Delle;CHAR;5
+DEPCAN;Canton;9007;Giromagny;CHAR;5
+DEPCAN;Canton;9008;Grandvillars;CHAR;5
+DEPCAN;Canton;9009;Valdoie;CHAR;5
+DEPCAN;Canton;9101;Arpajon;CHAR;5
+DEPCAN;Canton;9102;Athis-Mons;CHAR;5
+DEPCAN;Canton;9103;Brétigny-sur-Orge;CHAR;5
+DEPCAN;Canton;9104;Corbeil-Essonnes;CHAR;5
+DEPCAN;Canton;9105;Dourdan;CHAR;5
+DEPCAN;Canton;9106;Draveil;CHAR;5
+DEPCAN;Canton;9107;Épinay-sous-Sénart;CHAR;5
+DEPCAN;Canton;9108;Étampes;CHAR;5
+DEPCAN;Canton;9109;Évry;CHAR;5
+DEPCAN;Canton;9110;Gif-sur-Yvette;CHAR;5
+DEPCAN;Canton;9111;Longjumeau;CHAR;5
+DEPCAN;Canton;9112;Massy;CHAR;5
+DEPCAN;Canton;9113;Mennecy;CHAR;5
+DEPCAN;Canton;9114;Palaiseau;CHAR;5
+DEPCAN;Canton;9115;Ris-Orangis;CHAR;5
+DEPCAN;Canton;9116;Sainte-Geneviève-des-Bois;CHAR;5
+DEPCAN;Canton;9117;Savigny-sur-Orge;CHAR;5
+DEPCAN;Canton;9118;Les Ulis;CHAR;5
+DEPCAN;Canton;9119;Vigneux-sur-Seine;CHAR;5
+DEPCAN;Canton;9120;Viry-Châtillon;CHAR;5
+DEPCAN;Canton;9121;Yerres;CHAR;5
+DEPCAN;Canton;9201;Antony;CHAR;5
+DEPCAN;Canton;9202;Asnières-sur-Seine;CHAR;5
+DEPCAN;Canton;9203;Bagneux;CHAR;5
+DEPCAN;Canton;9204;Boulogne-Billancourt-1;CHAR;5
+DEPCAN;Canton;9205;Boulogne-Billancourt-2;CHAR;5
+DEPCAN;Canton;9206;Châtenay-Malabry;CHAR;5
+DEPCAN;Canton;9207;Châtillon;CHAR;5
+DEPCAN;Canton;9208;Clamart;CHAR;5
+DEPCAN;Canton;9209;Clichy;CHAR;5
+DEPCAN;Canton;9210;Colombes-1;CHAR;5
+DEPCAN;Canton;9211;Colombes-2;CHAR;5
+DEPCAN;Canton;9212;Courbevoie-1;CHAR;5
+DEPCAN;Canton;9213;Courbevoie-2;CHAR;5
+DEPCAN;Canton;9214;Gennevilliers;CHAR;5
+DEPCAN;Canton;9215;Issy-les-Moulineaux;CHAR;5
+DEPCAN;Canton;9216;Levallois-Perret;CHAR;5
+DEPCAN;Canton;9217;Meudon;CHAR;5
+DEPCAN;Canton;9218;Montrouge;CHAR;5
+DEPCAN;Canton;9219;Nanterre-1;CHAR;5
+DEPCAN;Canton;9220;Nanterre-2;CHAR;5
+DEPCAN;Canton;9221;Neuilly-sur-Seine;CHAR;5
+DEPCAN;Canton;9222;Rueil-Malmaison;CHAR;5
+DEPCAN;Canton;9223;Saint-Cloud;CHAR;5
+DEPCAN;Canton;9301;Aubervilliers;CHAR;5
+DEPCAN;Canton;9302;Aulnay-sous-Bois;CHAR;5
+DEPCAN;Canton;9303;Bagnolet;CHAR;5
+DEPCAN;Canton;9304;Le Blanc-Mesnil;CHAR;5
+DEPCAN;Canton;9305;Bobigny;CHAR;5
+DEPCAN;Canton;9306;Bondy;CHAR;5
+DEPCAN;Canton;9307;La Courneuve;CHAR;5
+DEPCAN;Canton;9308;Drancy;CHAR;5
+DEPCAN;Canton;9309;Épinay-sur-Seine;CHAR;5
+DEPCAN;Canton;9310;Gagny;CHAR;5
+DEPCAN;Canton;9311;Livry-Gargan;CHAR;5
+DEPCAN;Canton;9312;Montreuil-1;CHAR;5
+DEPCAN;Canton;9313;Montreuil-2;CHAR;5
+DEPCAN;Canton;9314;Noisy-le-Grand;CHAR;5
+DEPCAN;Canton;9315;Pantin;CHAR;5
+DEPCAN;Canton;9316;Saint-Denis-1;CHAR;5
+DEPCAN;Canton;9317;Saint-Denis-2;CHAR;5
+DEPCAN;Canton;9318;Saint-Ouen;CHAR;5
+DEPCAN;Canton;9319;Sevran;CHAR;5
+DEPCAN;Canton;9320;Tremblay-en-France;CHAR;5
+DEPCAN;Canton;9321;Villemomble;CHAR;5
+DEPCAN;Canton;9401;Alfortville;CHAR;5
+DEPCAN;Canton;9402;Cachan;CHAR;5
+DEPCAN;Canton;9403;Champigny-sur-Marne-1;CHAR;5
+DEPCAN;Canton;9404;Champigny-sur-Marne-2;CHAR;5
+DEPCAN;Canton;9405;Charenton-le-Pont;CHAR;5
+DEPCAN;Canton;9406;Choisy-le-Roi;CHAR;5
+DEPCAN;Canton;9407;Créteil-1;CHAR;5
+DEPCAN;Canton;9408;Créteil-2;CHAR;5
+DEPCAN;Canton;9409;Fontenay-sous-Bois;CHAR;5
+DEPCAN;Canton;9410;L' Haÿ-les-Roses;CHAR;5
+DEPCAN;Canton;9411;Ivry-sur-Seine;CHAR;5
+DEPCAN;Canton;9412;Le Kremlin-Bicêtre;CHAR;5
+DEPCAN;Canton;9413;Maisons-Alfort;CHAR;5
+DEPCAN;Canton;9414;Nogent-sur-Marne;CHAR;5
+DEPCAN;Canton;9415;Orly;CHAR;5
+DEPCAN;Canton;9416;Plateau briard;CHAR;5
+DEPCAN;Canton;9417;Saint-Maur-des-Fossés-1;CHAR;5
+DEPCAN;Canton;9418;Saint-Maur-des-Fossés-2;CHAR;5
+DEPCAN;Canton;9419;Thiais;CHAR;5
+DEPCAN;Canton;9420;Villejuif;CHAR;5
+DEPCAN;Canton;9421;Villeneuve-Saint-Georges;CHAR;5
+DEPCAN;Canton;9422;Villiers-sur-Marne;CHAR;5
+DEPCAN;Canton;9423;Vincennes;CHAR;5
+DEPCAN;Canton;9424;Vitry-sur-Seine-1;CHAR;5
+DEPCAN;Canton;9425;Vitry-sur-Seine-2;CHAR;5
+DEPCAN;Canton;9501;Argenteuil-1;CHAR;5
+DEPCAN;Canton;9502;Argenteuil-2;CHAR;5
+DEPCAN;Canton;9503;Argenteuil-3;CHAR;5
+DEPCAN;Canton;9504;Cergy-1;CHAR;5
+DEPCAN;Canton;9505;Cergy-2;CHAR;5
+DEPCAN;Canton;9506;Deuil-la-Barre;CHAR;5
+DEPCAN;Canton;9507;Domont;CHAR;5
+DEPCAN;Canton;9508;Ermont;CHAR;5
+DEPCAN;Canton;9509;Fosses;CHAR;5
+DEPCAN;Canton;9510;Franconville;CHAR;5
+DEPCAN;Canton;9511;Garges-lès-Gonesse;CHAR;5
+DEPCAN;Canton;9512;Goussainville;CHAR;5
+DEPCAN;Canton;9513;Herblay;CHAR;5
+DEPCAN;Canton;9514;L' Isle-Adam;CHAR;5
+DEPCAN;Canton;9515;Montmorency;CHAR;5
+DEPCAN;Canton;9516;Pontoise;CHAR;5
+DEPCAN;Canton;9517;Saint-Ouen-l'Aumône;CHAR;5
+DEPCAN;Canton;9518;Sarcelles;CHAR;5
+DEPCAN;Canton;9519;Taverny;CHAR;5
+DEPCAN;Canton;9520;Vauréal;CHAR;5
+DEPCAN;Canton;9521;Villiers-le-Bel;CHAR;5
+DEPCAN;Canton;97101;Les Abymes-1;CHAR;5
+DEPCAN;Canton;97102;Les Abymes-2;CHAR;5
+DEPCAN;Canton;97103;Les Abymes-3;CHAR;5
+DEPCAN;Canton;97104;Baie-Mahault-1;CHAR;5
+DEPCAN;Canton;97105;Baie-Mahault-2;CHAR;5
+DEPCAN;Canton;97106;Basse-Terre;CHAR;5
+DEPCAN;Canton;97107;Capesterre-Belle-Eau;CHAR;5
+DEPCAN;Canton;97108;Le Gosier;CHAR;5
+DEPCAN;Canton;97109;Lamentin;CHAR;5
+DEPCAN;Canton;97110;Marie-Galante;CHAR;5
+DEPCAN;Canton;97112;Morne-à-l'Eau;CHAR;5
+DEPCAN;Canton;97111;Le Moule;CHAR;5
+DEPCAN;Canton;97113;Petit-Bourg;CHAR;5
+DEPCAN;Canton;97114;Petit-Canal;CHAR;5
+DEPCAN;Canton;97115;Pointe-à-Pitre;CHAR;5
+DEPCAN;Canton;97116;Saint-François;CHAR;5
+DEPCAN;Canton;97117;Sainte-Anne;CHAR;5
+DEPCAN;Canton;97118;Sainte-Rose-1;CHAR;5
+DEPCAN;Canton;97119;Sainte-Rose-2;CHAR;5
+DEPCAN;Canton;97120;Trois-Rivières;CHAR;5
+DEPCAN;Canton;97121;Vieux-Habitants;CHAR;5
+DEPCAN;Canton;97401;L' Étang-Salé;CHAR;5
+DEPCAN;Canton;97402;Le Port;CHAR;5
+DEPCAN;Canton;97403;La Possession;CHAR;5
+DEPCAN;Canton;97404;Saint-André-1;CHAR;5
+DEPCAN;Canton;97405;Saint-André-2;CHAR;5
+DEPCAN;Canton;97406;Saint-André-3;CHAR;5
+DEPCAN;Canton;97407;Saint-Benoît-1;CHAR;5
+DEPCAN;Canton;97408;Saint-Benoît-2;CHAR;5
+DEPCAN;Canton;97409;Saint-Denis-1;CHAR;5
+DEPCAN;Canton;97410;Saint-Denis-2;CHAR;5
+DEPCAN;Canton;97411;Saint-Denis-3;CHAR;5
+DEPCAN;Canton;97412;Saint-Denis-4;CHAR;5
+DEPCAN;Canton;97413;Saint-Joseph;CHAR;5
+DEPCAN;Canton;97414;Saint-Leu;CHAR;5
+DEPCAN;Canton;97415;Saint-Louis-1;CHAR;5
+DEPCAN;Canton;97416;Saint-Louis-2;CHAR;5
+DEPCAN;Canton;97417;Saint-Paul-1;CHAR;5
+DEPCAN;Canton;97418;Saint-Paul-2;CHAR;5
+DEPCAN;Canton;97419;Saint-Paul-3;CHAR;5
+DEPCAN;Canton;97420;Saint-Pierre-1;CHAR;5
+DEPCAN;Canton;97421;Saint-Pierre-2;CHAR;5
+DEPCAN;Canton;97422;Saint-Pierre-3;CHAR;5
+DEPCAN;Canton;97423;Sainte-Marie;CHAR;5
+DEPCAN;Canton;97424;Le Tampon-1;CHAR;5
+DEPCAN;Canton;97425;Le Tampon-2;CHAR;5
+NBCOM;Nombre de communes;;;NUM;8
+PMUN;Population municipale;;;NUM;8
+PTOT;Population totale;;;NUM;8
